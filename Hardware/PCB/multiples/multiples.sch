@@ -1397,4 +1397,40 @@ Wire Wire Line
 Wire Wire Line
 	2000 1750 2000 1950
 Connection ~ 2000 1950
+$Comp
+L ao_symbols:Graphic GRAF1
+U 1 1 611C08DC
+P 6750 6100
+F 0 "GRAF1" H 7028 6146 50  0000 L CNN
+F 1 "Holes" H 7028 6055 50  0000 L CNN
+F 2 "multiples:multiples_panel_holes" H 6750 6100 50  0001 C CNN
+F 3 "" H 6750 6100 50  0001 C CNN
+F 4 "DNF" H 6750 6100 50  0001 C CNN "Config"
+	1    6750 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:Graphic GRAF2
+U 1 1 611C0DA7
+P 7750 6100
+F 0 "GRAF2" H 8028 6146 50  0000 L CNN
+F 1 "AO logo" H 8028 6055 50  0000 L CNN
+F 2 "ao_tht:analogoutput" H 7750 6100 50  0001 C CNN
+F 3 "" H 7750 6100 50  0001 C CNN
+F 4 "DNF" H 7750 6100 50  0001 C CNN "Config"
+	1    7750 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L ao_symbols:Graphic GRAF3
+U 1 1 611C1098
+P 8750 6100
+F 0 "GRAF3" H 9028 6146 50  0000 L CNN
+F 1 "CC0 logo" H 9028 6055 50  0000 L CNN
+F 2 "ao_tht:CC0_logo" H 8750 6100 50  0001 C CNN
+F 3 "" H 8750 6100 50  0001 C CNN
+F 4 "DNF" H 8750 6100 50  0001 C CNN "Config"
+	1    8750 6100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
