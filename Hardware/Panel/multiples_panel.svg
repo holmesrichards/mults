@@ -795,7 +795,8 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Outline"
-     style="display:none">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        y="1.9685047"
        x="1.968504"
@@ -2413,7 +2414,10 @@
        d="m 2.9527569,2.3622055 c 0,0 0,3.1102372 0,3.1102372"
        id="path2394"
        inkscape:path-effect="#path-effect2396"
-       inkscape:original-d="M 2.9527569,2.3622055 V 5.4724427" />
+       inkscape:original-d="M 2.9527569,2.3622055 V 5.4724427"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945" />
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.00520833;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="rect6582"
@@ -4109,13 +4113,16 @@
        d="m 2.9527569,9.4094519 c 0,0 0,-3.9370092 0,-3.9370092"
        id="path2356"
        inkscape:path-effect="#path-effect2358"
-       inkscape:original-d="M 2.9527569,9.4094519 V 5.4724427" />
+       inkscape:original-d="M 2.9527569,9.4094519 V 5.4724427"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
+       inkscape:export-xdpi="999.99945"
+       inkscape:export-ydpi="999.99945" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Holes"
-     style="display:none">
+     style="display:inline">
     <circle
        r="0.19685039"
        cy="2.5590618"
@@ -4975,7 +4982,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Panel Hardware"
-     style="display:none">
+     style="display:inline">
     <g
        id="g17280"
        transform="translate(8.467393,9.0668094)">
