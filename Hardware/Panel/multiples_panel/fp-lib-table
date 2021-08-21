@@ -1,5 +1,3 @@
 (fp_lib_table
   (lib (name multiples)(type KiCad)(uri ${KIPRJMOD}/../../PCB/multiples/multiples.pretty)(options "")(descr ""))
-  (lib (name Kosmo_panel)(type KiCad)(uri ${KIPRJMOD}/../../lib/Kosmo_panel/Kosmo_panel.pretty)(options "")(descr ""))
-  (lib (name ao_tht)(type KiCad)(uri ${KIPRJMOD}/../../lib/aoKicad/ao_tht.pretty)(options "")(descr ""))
 )
