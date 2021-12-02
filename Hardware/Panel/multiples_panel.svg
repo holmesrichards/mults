@@ -5,7 +5,7 @@
    viewBox="0 0 8.5 11"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
    sodipodi:docname="multiples_panel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -647,8 +647,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60104076"
-     inkscape:cx="121.45599"
-     inkscape:cy="589.81025"
+     inkscape:cx="-51.577201"
+     inkscape:cy="732.89539"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
@@ -795,8 +795,7 @@
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Outline"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        y="1.9685047"
        x="1.968504"
@@ -804,9 +803,9 @@
        width="1.968504"
        id="rect2111-6"
        style="display:inline;opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png" />
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png" />
   </g>
   <g
      inkscape:label="Standards"
@@ -2328,8 +2327,8 @@
        width="1.9685059"
        id="rect829-4"
        style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.0104167"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <text
        xml:space="preserve"
@@ -2339,8 +2338,8 @@
        id="text2144"
        transform="scale(0.90220081,1.1084007)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"><tspan
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"><tspan
          sodipodi:role="line"
          id="tspan2142"
          x="3.2728367"
@@ -2352,8 +2351,8 @@
        id="path1048"
        d="M 1.9685038,2.362205 H 3.9370077"
        style="display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.0312501;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <path
        sodipodi:nodetypes="cc"
@@ -2361,8 +2360,8 @@
        d="M 1.9685038,9.4488193 H 3.9370077"
        id="path1050"
        inkscape:connector-curvature="0"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <flowRoot
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2391,8 +2390,8 @@
        y="2.1259842"
        id="text3657"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"><tspan
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"><tspan
          sodipodi:role="line"
          id="tspan3655"
          x="2.9527559"
@@ -2416,8 +2415,8 @@
        inkscape:path-effect="#path-effect2396"
        inkscape:original-d="M 2.9527569,2.3622055 V 5.4724427"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945" />
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015" />
     <rect
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.00520833;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
        id="rect6582"
@@ -2426,8 +2425,8 @@
        x="2.8740168"
        y="4.8425212"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945" />
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015" />
     <path
        style="fill:#f2f2f2;fill-rule:evenodd;stroke:#000000;stroke-width:0.03125;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker2624)"
        d="m 2.4606347,4.9212609 c 0,0 0.6496015,-1e-6 0.6496015,-1e-6"
@@ -2436,8 +2435,8 @@
        inkscape:original-d="m 2.4606347,4.9212609 0.6496015,-1e-6"
        sodipodi:nodetypes="cc"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945" />
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015" />
     <rect
        style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3576"
@@ -2446,8 +2445,8 @@
        x="2.0078731"
        y="5.4724422"
        ry="0"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <flowRoot
        transform="matrix(0.01041667,0,0,0.01041667,-2.4632552e-6,0.590545)"
@@ -3938,8 +3937,8 @@
        x="2.9527557"
        y="5.4724412"
        ry="0"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <g
        id="g6656"
@@ -3968,8 +3967,8 @@
        cx="2.460634"
        cy="5.9055114"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3977,8 +3976,8 @@
        cx="3.4448845"
        cy="5.9055157"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3986,8 +3985,8 @@
        cx="2.460634"
        cy="4.9212594"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3995,8 +3994,8 @@
        cx="3.4448845"
        cy="4.9212637"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <text
        xml:space="preserve"
@@ -4004,8 +4003,8 @@
        x="3.4448862"
        y="5.3937006"
        id="text3305"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan3303"
@@ -4018,8 +4017,8 @@
        x="2.4606342"
        y="5.3937006"
        id="text3309"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan3307"
@@ -4032,22 +4031,22 @@
        cx="2.4606311"
        cy="8.8582735"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="2.4606297"
-       y="9.3307095"
+       y="7.3622055"
        id="text2543"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2541"
          x="2.4606297"
-         y="9.3307095"
+         y="7.3622055"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">OUT 1</tspan></text>
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4055,8 +4054,8 @@
        cx="2.4606295"
        cy="7.8740163"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4064,8 +4063,8 @@
        cx="3.4448817"
        cy="8.8582783"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4073,22 +4072,22 @@
        cx="3.44488"
        cy="7.8740206"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.333333px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="3.4448817"
-       y="9.3307095"
+       y="7.3622055"
        id="text2543-3"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"><tspan
          sodipodi:role="line"
          id="tspan2541-6"
          x="3.4448817"
-         y="9.3307095"
+         y="7.3622055"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">OUT 2</tspan></text>
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4096,8 +4095,8 @@
        cx="2.460634"
        cy="6.8897634"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <circle
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -4105,8 +4104,8 @@
        cx="3.4448845"
        cy="6.8897676"
        r="0.27559054"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945"
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png" />
     <path
        style="fill:#f2f2f2;fill-rule:evenodd;stroke-width:0.03125;stroke-linejoin:round;stroke:#ffffff"
@@ -4115,8 +4114,8 @@
        inkscape:path-effect="#path-effect2358"
        inkscape:original-d="M 2.9527569,9.4094519 V 5.4724427"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945" />
+       inkscape:export-xdpi="1016.0015"
+       inkscape:export-ydpi="1016.0015" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4407,25 +4406,25 @@
        cx="2.4606311"
        cy="8.8582735"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606268,8.7598481 V 8.9566986"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590518,8.8582733 h -0.19685"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <g
        id="g2461"
        style="display:inline"
@@ -4497,75 +4496,75 @@
        cx="2.4606295"
        cy="7.8740163"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606253,7.7755917 V 7.9724422"
        id="path3144"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,7.8740169 h -0.19685"
        id="path3146"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3290"
        cx="3.4448817"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448772,8.7598526 V 8.9567031"
        id="path3292"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433022,8.8582778 h -0.19685"
        id="path3294"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3296"
        cx="3.44488"
        cy="7.8740206"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448757,7.7755962 V 7.9724467"
        id="path3298"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433007,7.8740214 h -0.19685"
        id="path3300"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <g
        id="g6665"
        transform="translate(3.5346643,5.0822633)"
@@ -4670,153 +4669,156 @@
        cx="2.460634"
        cy="6.8897634"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606299,6.7913386 V 6.9881891"
        id="path3209"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590549,6.8897638 h -0.19685"
        id="path3211"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3213"
        cx="3.4448845"
        cy="6.8897676"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448803,6.7913431 V 6.9881936"
        id="path3215"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433053,6.8897683 h -0.19685"
        id="path3217"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3259"
        cx="2.460634"
        cy="5.9055114"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606299,5.8070867 V 6.0039372"
        id="path3261"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590549,5.9055119 h -0.19685"
        id="path3263"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3265"
        cx="3.4448845"
        cy="5.9055157"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448803,5.8070912 V 6.0039417"
        id="path3267"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433053,5.9055164 h -0.19685"
        id="path3269"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3311"
        cx="2.460634"
        cy="4.9212594"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606299,4.8228347 V 5.0196852"
        id="path3313"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590549,4.9212599 h -0.19685"
        id="path3315"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle3317"
        cx="3.4448845"
        cy="4.9212637"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448803,4.8228392 V 5.0196897"
        id="path3319"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433053,4.9212644 h -0.19685"
        id="path3321"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_holes.png"
-       inkscape:export-xdpi="999.99799"
-       inkscape:export-ydpi="999.99799" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577" />
     <g
        id="g2598"
-       transform="translate(0.00787419)">
+       transform="translate(0.00787419)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0"
@@ -4842,7 +4844,10 @@
     <g
        id="g2598-9"
        transform="translate(-1.6141731)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-6"
@@ -4868,7 +4873,10 @@
     <g
        id="g2598-0"
        transform="translate(0.00787419,7.6377954)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-3"
@@ -4894,7 +4902,10 @@
     <g
        id="g2598-4"
        transform="translate(-1.6141731,7.6377951)"
-       style="display:inline">
+       style="display:inline"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-4"
@@ -5411,9 +5422,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.0154228,2.8880793)"
        style="display:inline"
        id="g2571"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2563"
@@ -5622,9 +5633,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.0154213,1.9038229)"
        style="display:inline"
        id="g3156"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3148"
@@ -5668,9 +5679,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.9996732,2.8880838)"
        style="display:inline"
        id="g3322"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3314"
@@ -5714,9 +5725,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.9996717,1.9038274)"
        style="display:inline"
        id="g3332"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3324"
@@ -5878,9 +5889,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.0154259,0.91956975)"
        style="display:inline"
        id="g3227"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3219"
@@ -5924,9 +5935,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.9996763,0.91957425)"
        style="display:inline"
        id="g3237"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3229"
@@ -5970,9 +5981,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.0154259,-0.0646822)"
        style="display:inline"
        id="g3279"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3271"
@@ -6016,9 +6027,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.9996763,-0.0646777)"
        style="display:inline"
        id="g3289"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3281"
@@ -6062,9 +6073,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.0154259,-1.0489342)"
        style="display:inline"
        id="g3331"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3323"
@@ -6108,9 +6119,9 @@
        transform="matrix(1.000002,0,0,1.000002,3.9996763,-1.0489297)"
        style="display:inline"
        id="g3341"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel_art.png"
-       inkscape:export-xdpi="999.99945"
-       inkscape:export-ydpi="999.99945">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Scratch/Multiples/Images/multiples_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577">
       <circle
          style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle3333"
