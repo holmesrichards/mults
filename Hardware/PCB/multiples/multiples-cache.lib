@@ -121,11 +121,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# ao_symbols_Graphic
+# AO_symbols_Graphic
 #
-DEF ao_symbols_Graphic GRAF 0 40 Y Y 1 F N
+DEF AO_symbols_Graphic GRAF 0 40 Y Y 1 F N
 F0 "GRAF" 0 -150 50 H V C CNN
-F1 "ao_symbols_Graphic" 0 150 50 H V C CNN
+F1 "AO_symbols_Graphic" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "DNF" 0 0 50 H I C CNN "Config"
@@ -135,12 +135,12 @@ S -250 100 250 -100 0 0 0 f
 ENDDRAW
 ENDDEF
 #
-# ao_symbols_Synth_power_2x5
+# AO_symbols_Synth_power_2x5
 #
-DEF ao_symbols_Synth_power_2x5 J 0 40 Y Y 1 F N
+DEF AO_symbols_Synth_power_2x5 J 0 40 Y Y 1 F N
 F0 "J" 0 -300 60 H V C CNN
-F1 "ao_symbols_Synth_power_2x5" 0 300 60 H V C CNN
-F2 "ao_tht:Power_Header" 0 0 60 H I C CNN
+F1 "AO_symbols_Synth_power_2x5" 0 300 60 H V C CNN
+F2 "AO_tht:Power_Header" 0 0 60 H I C CNN
 F3 "" 0 0 60 H I C CNN
 F4 "Tayda" 0 0 50 H I C CNN "Vendor"
 F5 "A-2939" 0 0 50 H I C CNN "SKU"
@@ -159,12 +159,12 @@ X +12V 9 450 200 200 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# ao_symbols_TL074
+# AO_symbols_TL074
 #
-DEF ao_symbols_TL074 U 0 5 Y Y 5 L N
+DEF AO_symbols_TL074 U 0 5 Y Y 5 L N
 F0 "U" 0 200 50 H V L CNN
-F1 "ao_symbols_TL074" 0 -200 50 H V L CNN
-F2 "ao_tht:DIP-14_W7.62mm_Socket_LongPads" -50 100 50 H I C CNN
+F1 "AO_symbols_TL074" 0 -200 50 H V L CNN
+F2 "AO_tht:DIP-14_W7.62mm_Socket_LongPads" -50 100 50 H I C CNN
 F3 "" 50 200 50 H I C CNN
 F4 "Tayda" 0 0 50 H I C CNN "Vendor"
 F5 "A-1138" 0 0 50 H I C CNN "SKU"
