@@ -1,0 +1,19 @@
+# Multiples: How it works
+
+This is a very simple circuit: Basically each input is fanned out to four voltage followers. On each input there is a 1M resistor to ground to establish the input impedance and on each output there is a 1k current limiting resistor inside the op amp loop.
+
+Using a 1M input impedance instead of the more usual 100k means the voltage attenuation for an upstream module with 1k output impedance will be 1k/1001k = 0.1% instead of 1k/101k = 1%. The former is generally acceptable for a 1 V/oct control voltage while the latter is 1/8 of a semitone per octave out of tune.
+
+Using in-the-loop current limiting resistors means the output impedance is zero rather than the 1k it would be with out-of-the-loop resistors. The latter into a downstream module with 100k input impedance would again attenuate the voltage by an unacceptable 1%.
+
+Using voltage followers gives four outputs per input with one quad op amp and five resistors, and guarantees unity gain; a design based on pairs of inverting amplifiers gives only three outputs per input with one quad op amp and 11 resistors, and will give unity gain (±0.1%) only if (expensive) precision resistors are used, or if resistors are hand matched at the 0.1% level, or if some of the resistors are trim pots and the module is calibrated carefully. The small number of needed components for a voltage follower design means all ten jacks and all through hole components for a dual 4-output buffer module will fit on a single PCB behind a 50 mm wide Kosmo format panel; parts for an inverter based design probably would not, unless using surface mount components.
+
+However, there are drawbacks to this design.
+
+The in-the-loop current limiting resistors do nothing, on their own, to suppress op amp instabilities due to capacitive loads; out-of-the-loop resistors would. With in-the-loop resistors, suppressing instability requires adding capacitors in the loop, whose optimal value would depend on the capacitive load. However, such instability is unlikely to be a problem unless very long patch cables are used on the outputs, so these capacitors have been omitted due to space constraints.
+
+The other option would be to use smaller value, e.g. 100Ω, out-of-the-loop resistors, but if the output were shorted to ±12 V, the current would try to go to 12 V / 100Ω = 120 mA. The TL074 would not be able to source or sink that much current, but supposing it were 80 mA, the power dissipated by the resistor would be (80 mA)<sup>2</sup> x 100Ω = 0.64 W, likely to burn up the 1/4 W resistors normally used — and 1 W resistors would take up more space than is available. With 1k resistors the current is only 12 mA and the power dissipated is 0.14 W, which 1/4 W resistors can handle.
+
+The non inverting voltage follower design exposes the op amp input pins to the input voltages, unlike an inverting amp design where the input pins are at zero volts. This has at least two negative consequences. First, the op amps could be damaged if the input voltages are more than a diode drop outside the ±12 V range. Second, the TL074 is susceptible to phase reversal when the input is below -8 V. If phase reversal occurs, the voltage follower output becomes about +12 V instead of the expected -8 V or lower. 
+
+I have decided these potential problems are an acceptable price to pay for the advantages of the design. In my setup, it is very unlikely the input voltage would ever be outside the ±12 V range — there are no larger DC voltage sources in the synth. As for phase reversal, while voltages below -8 V are certainly possible, they are exceptional; usually all signals in my synth are between -5 V and +10 V. On the rare occasion where I might really need to buffer a signal that could go below -8 V I have another, inverting amp based buffered multiple I can use.
