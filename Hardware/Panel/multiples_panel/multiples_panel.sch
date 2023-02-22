@@ -200,7 +200,7 @@ Connection ~ 3150 3850
 Wire Wire Line
 	3150 3850 3500 3850
 $Comp
-L ao_symbols:Graphic GRAF1
+L AO_symbols:Graphic GRAF1
 U 1 1 611F7EE9
 P 2000 4600
 F 0 "GRAF1" H 2278 4646 50  0000 L CNN
@@ -212,19 +212,19 @@ F 4 "DNF" H 2000 4600 50  0001 C CNN "Config"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:Graphic GRAF2
+L AO_symbols:Graphic GRAF2
 U 1 1 611F8831
 P 2000 4950
 F 0 "GRAF2" H 2278 4996 50  0000 L CNN
 F 1 "CC0 logo" H 2278 4905 50  0000 L CNN
-F 2 "ao_tht:CC0_logo" H 2000 4950 50  0001 C CNN
+F 2 "AO_tht:CC0_logo" H 2000 4950 50  0001 C CNN
 F 3 "" H 2000 4950 50  0001 C CNN
 F 4 "DNF" H 2000 4950 50  0001 C CNN "Config"
 	1    2000 4950
 	1    0    0    -1  
 $EndComp
 $Comp
-L ao_symbols:Graphic GRAF3
+L AO_symbols:Graphic GRAF3
 U 1 1 611FC79C
 P 3000 4600
 F 0 "GRAF3" H 3278 4646 50  0000 L CNN

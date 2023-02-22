@@ -28,11 +28,11 @@ X ~ 1 0 -350 100 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# ao_symbols_Graphic
+# AO_symbols_Graphic
 #
-DEF ao_symbols_Graphic GRAF 0 40 Y Y 1 F N
+DEF AO_symbols_Graphic GRAF 0 40 Y Y 1 F N
 F0 "GRAF" 0 -150 50 H V C CNN
-F1 "ao_symbols_Graphic" 0 150 50 H V C CNN
+F1 "AO_symbols_Graphic" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 F4 "DNF" 0 0 50 H I C CNN "Config"
