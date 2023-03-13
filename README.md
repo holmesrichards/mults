@@ -22,6 +22,7 @@ Two things to watch out for:
 * [Schematic](Docs/multiples_schematic.pdf)
 * PCB layout: [front](Docs/2D/multiples/multiples_front.svg), [back](Docs/2D/multiples/multiples_back.svg)
 * [BOM](Docs/BOM/multiples_bom.md)
+* [How it works](Docs/howitworks.md)
 * [Blog post](https://analogoutputblog.wordpress.com/2023/03/13/buffered-multiples-again/)
 
 ## GitHub repository
