@@ -1,0 +1,7 @@
+{
+    "enabled": [
+        "pcb_svg",
+        "pcb_pdf",
+	"readme"
+    ]
+}

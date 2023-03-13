@@ -1,674 +1,0 @@
-%PDF-1.5
-%€‚ƒ
-1 0 obj
-<</KicadFont 55 0 R/KicadFontI 75 0 R/KicadFontB 24 0 R/KicadFontBI 7 0 R>>
-endobj
-2 0 obj
-<</Subtype/Link/Type/Annot/Rect[640.401 574.108 676.802 651.82]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J1', cReturn: null }, { cName: 'Value = Synth_power_2x5', cReturn: null }, { cName: 'SKU = A-2939', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Pin header 2.54 mm 2x5', cReturn: null }, { cName: 'Footprint = AO_tht:Power_Header', cReturn: null }, { cName: 'Description = Through hole straight IDC box header, 2x05, 2.54mm pitch, double rows', cReturn: null }, { cName: 'Keywords = Through hole IDC box header THT 2x05 2.54mm double row', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-3 0 obj
-<</Next 116 0 R/Title(J8)/Dest[57 0 R/FitR 652 426 594 375]/Prev 62 0 R/Parent 100 0 R>>
-endobj
-4 0 obj
-<</Next 108 0 R/Title(GRAF1)/Dest[57 0 R/FitR 724 680 591 121]/Prev 110 0 R/Parent 100 0 R>>
-endobj
-5 0 obj
-<</Subtype/Link/Type/Annot/Rect[639.879 501.236 652.996 536.131]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R8', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-6 0 obj
-<</Next 117 0 R/Title(R10)/Dest[57 0 R/FitR 610 615 593 580]/Prev 35 0 R/Parent 100 0 R>>
-endobj
-7 0 obj
-<</BaseFont/Helvetica-BoldOblique/Type/Font/Subtype/Type1/Encoding/WinAnsiEncoding>>
-endobj
-8 0 obj
-<</Subtype/Link/Type/Annot/Rect[628.051 579.586 644.903 616.181]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = D1', cReturn: null }, { cName: 'Value = 1N5817', cReturn: null }, { cName: 'SKU = A-159', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Schottky diode', cReturn: null }, { cName: 'ki_keywords = diode Schottky', cReturn: null }, { cName: 'Footprint = AO_tht:D_DO-41_SOD81_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20\(Plastic\).pdf', cReturn: 'http://www.diodes.com/_files/packages/DO-41%20\(Plastic\).pdf' }, { cName: 'Keywords = Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-9 0 obj
-<</Next 115 0 R/Title(J3)/Dest[57 0 R/FitR 723 426 664 375]/Prev 78 0 R/Parent 100 0 R>>
-endobj
-10 0 obj
-<</Next 110 0 R/Title(D2)/Dest[57 0 R/FitR 690 616 673 579]/Prev 28 0 R/Parent 100 0 R>>
-endobj
-11 0 obj
-<</Subtype/Link/Type/Annot/Rect[676.58 616.707 703.396 640.598]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = C2', cReturn: null }, { cName: 'Value = 10uF', cReturn: null }, { cName: 'SKU = A-4349', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'Footprint = AO_tht:CP_Radial_D6.3mm_P2.50mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-12 0 obj
-<</Last 38 0 R/First 38 0 R>>
-endobj
-13 0 obj
-<</Next 49 0 R/Title(GRAF2)/Dest[57 0 R/FitR 681 456 635 411]/Prev 36 0 R/Parent 100 0 R>>
-endobj
-14 0 obj
-<</Next 28 0 R/Title(D1)/Dest[57 0 R/FitR 645 616 629 579]/Prev 18 0 R/Parent 100 0 R>>
-endobj
-15 0 obj
-<</Next 34 0 R/Title(J10)/Dest[57 0 R/FitR 652 284 594 233]/Prev 72 0 R/Parent 100 0 R>>
-endobj
-16 0 obj
-<</Next 89 0 R/Title(C1)/Dest[57 0 R/FitR 641 641 617 618]/Prev 114 0 R/Parent 100 0 R>>
-endobj
-17 0 obj
-<</Next 102 0 R/Title(R6)/Dest[57 0 R/FitR 639 536 622 501]/Prev 95 0 R/Parent 100 0 R>>
-endobj
-18 0 obj
-<</Next 14 0 R/Title(C6)/Dest[57 0 R/FitR 618 597 605 576]/Prev 44 0 R/Parent 100 0 R>>
-endobj
-19 0 obj
-<</Next 126 0 R/Title(R7)/Dest[57 0 R/FitR 610 536 597 501]/Prev 123 0 R/Parent 100 0 R>>
-endobj
-20 0 obj
-<</Subtype/Link/Type/Annot/Rect[663.98 375.137 722.799 426.501]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J3', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-21 0 obj
-<</Subtype/Link/Type/Annot/Rect[590.102 121.297 723.969 680.345]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = GRAF1', cReturn: null }, { cName: 'Value = Holes', cReturn: null }, { cName: 'Config = DNF', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Graphic', cReturn: null }, { cName: 'Footprint = multiples:multiples_panel_holes', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-22 0 obj
-<</Type/Pages/Kids[57 0 R]/Count 1>>
-endobj
-23 0 obj
-<</Next 53 0 R/Title(TP1)/Dest[57 0 R/FitR 611 652 593 638]/Prev 101 0 R/Parent 100 0 R>>
-endobj
-24 0 obj
-<</BaseFont/Helvetica-Bold/Type/Font/Subtype/Type1/Encoding/WinAnsiEncoding>>
-endobj
-25 0 obj
-<</Subtype/Link/Type/Annot/Rect[592.802 543.019 652.755 573.491]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = U2', cReturn: null }, { cName: 'Value = TL074', cReturn: null }, { cName: 'SKU = A-1138', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Quad operational amplifier, DIP-14', cReturn: null }, { cName: 'Footprint = AO_tht:DIP-14_W7.62mm_Socket_LongPads', cReturn: null }, { cName: 'Description = 14-lead though-hole mounted DIP package, row spacing 7.62 mm \(300 mils\), Socket, LongPads', cReturn: null }, { cName: 'Keywords = THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-26 0 obj
-<</Next 121 0 R/Title(J9)/Dest[57 0 R/FitR 652 355 594 304]/Prev 116 0 R/Parent 100 0 R>>
-endobj
-27 0 obj
-<</Length 39601/Filter/FlateDecode>>
-stream
-xµ½YÓ¬»nöWÖeR)-qriÙrbÇ.Gë$÷Ö¶dÉÙm;ÊUùõ!& »{õ·t´w³¿÷iàL Á?‰ßÂú7~‹)•õÇooá{=!¬þ\?Äoÿfýï¿Ð/ßþî?óñ¯¿ï¹´Ò¾ý'¿ÝHßC­qQ÷Jÿž¾•”Fþ^¿=6’ÇÊq!¿ûñ$‡žJ	ßç·šbj+Õ¨!Ïï…¿!EE™½åïÃÐöØùj*=÷ç%µäü=îz<6"u}U3[ÿÃí'-RFpü˜Ïût¾T«O^¤[ý]¿÷'õ{Ïo5xî!>)ÿï7Œ½†V[—XfYy®Á÷/þð§ÿöoûÿéÏÿÛý‡oµ¬—¿ýá¯¿­ÿû»oCøö‡ÿïú‹¿ýíoþç?ü—oÿêßþO[k!®}1·ÿí¿ýþø«¿–ß1Ã¸ùZ~ú4«6â×+úçõ—O2aåöõÌRHyçö¤§Sk|Ä:«Œ«˜`|Ä>2Í£”C3ô=Ç\tš‚ ˆÕSh)âÀ>›k$T¡1P…9×(\Hë¿De±Ç®ÁŒesÓÈ¡u˜ßá[sYí²XL—x„S‹šŸ¶;ß§åö¯«„é{Öm»‘]Öì¶‹3GÛrÑ¹¨vsP™}8ìqñY¦'km°öÄ¶úë¿ê™¿Ÿ±ÄTªÖ¨U5•Å€ªc[RÞD£¤HçKË›B!HQ¨¶Mµ€Å4Õé7hNj9ì”xäÓŽÑ5?½¯Ý‚‡B#ÕêšOÝ3At¯¦5šmO¢Æ¼Ã*S^š£Åªs{ì’kË”ãw3O‚yëºL×MõFèkÍœºnQ-°±]·PÛTQ	vòDç•SÃuôPå%at;f†T#ÑøË›F!@QVY’µÓT{ÔDsÒíd1]jÕæ{¨Úî¾3P¤ÌïçÍÌWq±RÅìWj‡ÕZ„L½Ï÷ùU·F4—ÓÑ¥Õ=i±ScµŠäq”Gçt4KF¿xY©8§V£È¿ÓTgœö¹ÚMñ“oé§ýÍ­»¾×(²³Ýc@EÒ´ÎG#HÁuP
-ŠF#DñÑRTæ»g§Ç4•nå'T×ôPAÑ”Z#H‘‡«¹FâIÖ«Ëš‰ÍÕÍbšJ×-–jöÝ…<£2P¥Ú/*‹!ÕÔ¹3Õôs¤Þ>ãÑcšJ×Ñbš£n/‹éÒŸv×ˆn…C¡‘‡j9ÍÉbHµfQq¥¶˜¦ê­œ¼¦[ ¯_¸TcM¤Ú­¹„²¡v¦2P5Ã<•Å*éÜ™*yŽk/Ä–Qýç0CµWSiŽ=Ç]rÝ
-ÃVXkPôme0¤â^ïEµ•Áªe—°ˆ¦P½ì0ÍM‡é’ï‘gÝ‡B#º5§%ŒÁú”·c©<&ÂîµÞR²ó©÷êêÅÈ#ü­v	ƒ Emí{s4‰±=Šzå{´#ÒaHÕçMe0 Zù~·¿Ç*W\GÕ¸u˜¦Òm`1ÍQµ¸ÃtéwÏD·‚¢PÈCµœæd1¤Z–·Z:LS©uÇaºÔ\ZÛ¯osAt/vÊJ´ëªAE›R¡0R¤éW^‡!U4¶üç1 “¸ï¹mM¡Ö-‡in"ZD—ZI‡éÚ«ñí0ÝŠzXL÷ˆæXCÅR‰f¿zy4²‘¨úY©ÊôÒ Ã€*×JEe1¤ŠÃñÓP¤É9oÇjÊy[s<¦©Fo'/ƒiŽz´X¨j*^w˜æ¨©–D-*­Pç¼ZÔaHÕÈ(¨ZËaHU¬=Å"H‘
-éð§­†T¡z¹ÖašJíšÓ›.¹ÁNÉ÷¬Qßºöj;L·¤jo‡=T<ëEÕ©7õœ±RMSjõ¿ÆIT#ÜbH•ƒoE‡i*½ÖYLsÔ3Áb§ÔzNiD×^ÏM‹=®±LíÝe–ï×s»F®Å€ª­~Ê./‹!U¸Ö‡U]Öè8Z©Êüîg‹ÅjµqsóÅbšJ­-ÓÕÚâ0l¯^¼æé0ÍQSå«½–aÏK\ª4¨7ôl·RI}4•ÁãÌ´ÿª:Z©V}œ<é0]z%•8LSéõÅbšãYa4¢K®×‹éVÐín1 Ê%{éÔaH5‚—NöP½*%{J¶¦ÚÔÃXÝüéyÏŸýYxv5&æk™ÅïáÍÙÑ²Z<a]‡%U,2aÀÊ@SÚ¶ƒ!U+”niJÛnc0²EÐf•ÅªÞ-†T“FQˆEh‚v­Hc(Ô¸ó±RÑyjM~SÌP-ûB÷TˆiŽIÕÏbºä	ÛØ–=ívç/‹ùáh1Õ¢1¯úÛ¢Œ©Þ1TS=m8ZìqFH;Ç+È„³e=jÒªuu}h1¤Z+@wãÁbhQ‘Ñ¦¨,†Tíæh1 *Ü6gÔh)ò7£ÆbHEžfÔXÌP©Qc1ÍQ‹é’ëQc1Õ
-¦-¦ZÔŒ‹©Þ1TS=m8ZìqFˆ5Ëªbø)©?‡¡Õ¤wËÍ H±fIv¼,†T« ç„ ¦2ÙhÈ¯!…S&‹iªú)•Á4Ç Ën0UzžK¦ôg~QõX7ˆjM=kö>°45YŠ1ý¼rôoù¨F§Å*u[ƒ E¡q¢ZÒašJõŠÃ7Õ¿Q¥6k™ÅT˜1g±‡ÍD“ÂÄú´eÉE!D•—5/*FL^Cª:ý.â0¤šÓ%ÍÑ`ª\ëŒwìÈ‹J¹ %U#ÁbNq´RUn—ÁW^–ëæ¸þvw[Bzð;¥Ã*§êk‡UÅ¯fCªViu>#ÐaHEÞ[z,;LS©yá0ÍQÍ0‡©ÒëVu˜j	ÝCS­jÛÞ÷¶ôÆ³RT#VJ§8Z©d©Ò[©*õ™n	‹!U§Y¥[ÕbšJ÷Å4GÝÛS¥7#Çbª%Ì(´Øãã?Õ>ÖäFAHèãô¡Âð7ÿðÿýïÿ×?ýÓÿü·ÿð7ÿø—ßûo?ýt´û»¿ýíoþãßý§¿ÿÓÇ?þþÿÎ!­Ì‰‡®!Ç‰<HàêEëÜÎ• ¹-aHU(¯ÚT^Cªà{	]Eh‚eÊ7YMc1¤êÌ_q³˜®_-…»y”&ØÎ«<¬4s¤–y($÷Ó
-CªØ©×Þ…Ê`Èqà!·1QYL—KS•ÖUY*Ç~•~MWzAté-†yMæ¨Jo1¤ªõ*½Åt¹4UxÔ¦J/H‡ã¦Úý¿™:Z¨BÏ•Å*ëÜ™*{ŽAZU‹-ªeuà2¬EŠ9:LSå¹ór˜æ˜k?¥7˜.½î!‹é–Ðmo1Ýª¦‡¦{Hq\+S	Ç<b$ª“—Ã€ªKI•Å€ªM;QY©Ö|IvD;ÌP©¶·˜æXò9Ó¥/5nŽCª™p7TÃöÊ4ÛKSíe°‡jg=¾,f¨Îúì0ÍQ{‡éÒ«9ä0Ý†*»¹½[Ps¬2&dDçÂ¹ëÞ¶ØC§S#§^ã¾Éåe±ÇU†WåzÇñ´—”T­Óyé²˜.½ÎËb«¯ÊõŒc(T®¾Gtæ™Uj‹cÖTi6<ä6T™©voo$¡£¥"©
-³Ú¼†TÂñŒ{‡ÕâŽ¹«½ÃaHÕð¨×R©&—AsäÒï‘³Ë Æ„Ã0¯’.*‹!ÕÐ¹3Õð¥\j¬:¨–žr?«œÃ4•ZM¦9ªQè0]z5
-¦[B­Ó­ª©,¦Ç—æW^f·ÚˆÎK°-¥ÈýßT{YLçÕ:8~Û¼Cª„.'6/ƒ=®2¼,×Ž!F+ñ­9z‰oÙõÐUáäµµ?:©róŸÃèBÃôŸÃt¹4UÏÁ®ÑQ-k‹´Þo*AÔúå0¤Á¯…Cçÿ5ÆÝ˜pRÑÑ­¥2–>rG‹é:ª9´TÔjõŽèöÊGAt?Z©jõz‡Ã*Ï/šUiÙÌuOpÉ¯ÞI©ø}Öa¦~gíZæ}Ë¾õX d·e˜ä ¢ûÅaHeZ—©|‹‡ÑœÎh¤ £fÝsCªÌüÏJê0M¥Ve‡iŽª•vJ®ÚÛ ºTÏ9L·¦¡2ØéÍ­‘#‰*Q+ÙÓ³w4Š—ÅJ¸ëœö¸ø¿,ÓŽ9T»š>d¶Tª¥ø\TCªZýúé0¤"×Sz‹!Õä2¨ñb1M¥ÇžÅ4G=Ž-¦K¯g„ÅtKè¹e1ÝªšÊbÕšcàôÓªQÚYµªÅjíSÓµªÅJzCµªÅ4•nU‹iŽºU-¦K¯ëh±‡ªµn/‹!U*^Ór ÌÑœ¦å1¤jÃIvCªB®§%<¦©N«zLs<=ä1]úÓÛÓ-¡ç£Å×X¢¼ÖÑ„Ù¿rZUa»%z‹W«Z©®òý']x©rpÒ…Ç*F§ï{LSé–¸©à’cr-†Tµ^íe1<Ÿój	‹!Õ“V-W«–ÂePu´˜¦Ru³Óáªè¯pÄê¸ëv¥ËzDläH"}4ÎéP	¢Jå0¤šÙi**­Öã1¤ÝÓÓêë€»8»»ÇtýÔÜ_P0{ñBÚp:©Çjt?«Tà<muRi*µÚ8Ls4¥7˜.½n	‹=T­u›–«ÝAÂnŽÊbH•»[é=†Tq\mo1 êæZÂbšJ·ªÅ4GÝCÓ¥×½m1ÝzŽYìq%¢
-UŒéâh1¤Êtpy4i*5c;¸LŽQýx0iûr²[“†ÇmøõÍath˜œä1:4,~¥wRÕêWz‡i*ÕöÏ¨r÷+½ÃðPšÂ3˜Ò[ŒŽÁóÕCª'­Ú®V­£û•ÞašJ×q™¥Œ•x!Ï¨T¹¥‹ÊbH5§³K{ì×–†³²xLSé:ZLsÔíe1]zÝöÓ-¡©,öP-¨9Z©rte×È¡(ã´”FtœS‘Þ1XˆjË@ÁL¿Xì|†§rRe·Î)(°†î9‡ª³Þ:ìp;§GÑ¥Võw¶@*îìÈcHÅ½}ÎŽ<öØ­«vƒ(
-Õ¯Ñœôø°˜.µkÓ- ¨vZRñký‚èœ6&µk&DïºCªÐ<¿ µßÞÚ“r·«Ü-»5¿äk¤«<£»mo•Â€({²Çt^ÇRì1¤ÑÙ¦=ö¸Êðª\Ï8Æ’¥c!œ»žªD¡T•Åjfg[ñØ¯Ã%/ë8©rt¶i*5k¦9ê‘e1]z=¶,¦[B	‹éVÕT{¨ÞP+hCú„ä ª·—ÉÜµýFÔêà0¤JÅïðCª–¼´à0,qMe1¤’¶Ñu4˜®£ê¡
-0mK¢ëh1¤jÃï‘ªšßo†T#ÞTªÕµ7G)½Œû
-úµ‡xLsÔTÓÕLsRåîe‡iªóÉË`š£Úé¦K¯v:‡é–ÐTÓ½­¤”ÕÉÖ#î º‡6&+@M%»S!Urz¹A€"Ž~q³RUë3×Ë@d—š¿ÕŒ
-é»Uéî¥&‡Õ4íATój£‚+A
-;gMvRåîÎG<¦©Ôšì0ÍQ÷ˆÅNÉuhD·€nm‹éÖ4}âûû@q+µÐØR
-hMNovPU
-Ph¨,†T9zëÃ*²?ß™Å3T§o¦9*É×aºôj®;["9ùØ HÁý æ¹ÃªÕxq˜¡:k¿Ã4GÓ‡Íú´J9õXÐˆnMc1ÝššHÛÐæÛšYJÎƒf)‰ÙzBDq<˜Ì‡<¹GG‡ÕèÕKCªè}4=TËò½8ŽCª–Üé¿Ç4•šÏ¨Jö2ŠÃ*´«½,T­¿;©bòû·Ã€
-¬ìNúp˜¦Òu„€F·Úˆ¦*WéQ3ßa@Aþœ,à0¤âZkŽÃrÍâË>í8Y·:n3õ;ûÉ2zÚœÖŸWNCªê½F=¦©ÔŽšf°o=­ÝÃyª/KÑ^8ò­¸)Rõ«¶Ã×ðžgÓ%ÒT {“WO¨TUÊ ¨,TeèÜ‰ÊbHÕØWHµƒÅÕÙs¦9ª=Çaºôj?qRòX2TÃöŠÓî:y¨6V{ŽÃÕ™ñ;ÜÔÚa]j=î,¦[ÀPL·æáwßÁ³ëŸÆž^R2TaI]œŸü½–Ø`×™×Å–ñý×õwõŸžß­o ã~5Ë÷¿ÿÃßþ÷ßÿêÝmÑ¾Õ^‡IJ ®^/tÞ\:ÞŽäw¼9ã™IÈ *ƒÏD&ï  Òè}âà›óÀ3rø’u#@¦äš*!-
-g\O ÉBƒWŽiœOÊÛˆ¢öA%é‰¾óéRV
-hÈà\I2XÈH¼j!93Ò„&%B&]wZÞo©è…BåÍyÏWÈÖš7©¥–è.È¨HSÃàTP2¨eå0"pÛ¥bÎ5JÛ¬¬)U\Â‚~çÉÒ¢%%JU†ä–y)ß©_òdîm
-2 õÖ<¢¯¨,31çŒ’ØªYˆß™¦Bëµ˜¹$k3…oüµ¾õu+Ëë&pi•Z.‡‰#Š<!¾m$n•4öR›]¹ö(%Kj·ŒîÜ©#E–Ñ’•dI\ÛÔ¨§)!Ô²h!RÑôÍ¹f,ÿ:O–œkÀÒ uLj4Ðk•¾ifÁ1¡ ±î¨¥R¦vN4uð(Kx×j!=H-3ôòàõ¾¡Žc–•v†¶ùÐØqr&¼Æ·¼Ë›¶ÃÌÒšy:¿S•^kGÜŒRG?yÇDÌw`àB2¦½Ëì•Ú¡É÷À\F-’eeh).É(Ü–qcš÷pñÓ wôÑ”òÏ‚£l 7!<B¦ôÉÚß…Ûªðh]çM2cc¥ñÀ»Ì=Z5{Ý4i"/¸Ž*3v`½—œ#3ÃèÁ˜n2cñ:*¼g ½YpŽÀ<È\¯‚!Ûh®pÎ3`ÎËÐ¿W¢Ds°e®¬.CÍÁš
-ÏÒÎœj¦ÛJ”•²Ê7WYó*~§)ëdãYšözÜiµ´×ÉA{C‹2ëä² ÎEë:­1²ºŸ2–.ç–h4¶ ãÖZ«¤4­R­—!TòmT§ŠëíT¼nÎ²÷.D |8§þoi»V…"nÞØ2V˜ÄûÎ±ay÷Â $ïýWk·ÞZH•ÕN|	‘zÖÞáÇ
-µy£ò•½[U\Õ1HºôS"ÞYÖ9¸U‰¼“¬ü5"{ìq˜*ö=j¸Vq—8@möxœ‘8›Ì˜3o	P<;:Sô!­aûÅxÜÃµ¾[”q_3Q ¿Íâ‹¬ï8 ÊsÜ³®R>{¥+qÍ^
-I1Ìh½µ„î«c\‹ çA¦½¶ÄP¥¥ò„`!xŽL+R#š,Ò C_Hê²"uÜcÀëÕ„4*]Økz½¯5uJçžh…{Oî´‹Í6ÏZM+|•1‘­³ÔøþÞ6RÂÞ;2•§îw ÙêÞo*qêcï.vŠ-=A°‡Âõ”ý1PëDÞu¶L(•Šc‘îs2¹ön^µ^“56ÕJýÒ÷nX¹Í1ˆÉ <²Pº$dÐèÛ2¬8²R“ô‰cos<Êë–	&ö
-Žjæ=;–&ö½§”4×\%Ç@È^³r¬{Îñ®ŠRÌKîI<­«xG†]£€Ó”Ž5HEZ+W^IêÞ[å5kÓðÜ]J¶ä3hÖQ}e_Ed–½‡Bšòž…‘‘=Çx­É±ïý1’ö:‚rÛBòÞ‹Iv¹ìßhfæ2÷îˆßUfT™Ðí—´‚ÑÚ›Ìnä‘¦—½6Òl¦›‚´6Rÿç)ûy´R—p4Z-Kä4Ìe}'Ùk„wÉMíÔÐ2¥ˆ<]ñ†º²T0i®”&ó©ÌŽ=WXn_ßð5·–Áß•÷&Z­ô7æ7Ž6V‰¢‹$Ú²ð¬²–Ìå’=kWšÙ%K–™Á?Ö_ÖDÙk×ô—”‘zøôˆù’lA9£,µ¶‚½“®3†õ]ö^hÞƒÞÆ¥!ý2Ö$sºåBù†ù´Ul›É×ÑäP2‹g'!4ÃêÖ?*>¥¨»w©¿—N¶GDÆº‰4cÆ+ÈM<öHR[ÈÞÍS TCV÷š¨ÕÀ~ÅœhUŽmk µ,1ìæñXPFŽ «0RiM ™O¤jý¶W‰J{Kl[‡»fˆ´-L’uêØº$.¤KûGZéÚ^é@ãGdÏ©–9ç)+]C^@D#j8/Öì[z$=o!u[(2~ïñ½ÙƒŒC¶rÄe~³%äF¶%ä¯á~q‰lç`{Iæ<Ö‘e¬ÍÛ:R	bAáÙ•ìFû§jqn{H'$¶~D¡)´§—Æ=‘A¾%¤ÒI'+Û4·ÉõÕ-w¶‘orÇùöË¹gÒM`H„T’õËÌ’I¢¡ˆ$•û ý¯©{gî•ÖÄáüÑ&…÷ 99€•ŽJ<¸æ5S®£t¶lðèZ¢Y}`DS½ëu·ñ$…Ô&=3h÷µKfÀ²ÞòÄÀw ðþ²=ÖpÄþ±6;êß&+Á2ª„ÖÒFØÎÐòNÕ+ë[;çAZ/h-Ì}2ÒdSuÑOƒèqC4®bòï¬ëÃX§¹@A¿Aï¤q`í\V™Í«úXÃ^hn,ö¨ÉŠVHòYú¯Ìv¸m‚<†ìÔK½G-Z$ª@:Á²‡È<Ž!²=D$æ¨WÇÖ7—0EÈ–G–„v©KLÔÒcHé—ÐÖ±ÌDÚÛÐ&Q!]r&±6­š%aæË¶š)³q!4RfOayzlÿ,çÂœ¿3\@ØeaM-”]^Þ5C“½,VÖ úT4Í¬M!‘&y#aˆ¦Ðz9‹¾"ÉÏ¢Sœ(Ÿô@`IþËùF–öçÜH DÖŠ5J±|a¶3Û X2ÏÚ?ÃÌ,?gŠRýÂ3„WIŠ?!Š1«Ì™Žö›qæžy²ÝyÔ$ó®f¶É:6[›R‘y‡Þÿd½ãT‰çÄä’D*[Urá5´‹Íe!´Rô&ù\E`.%Y·dæ”ÈëÛ–Ä¢’G%{O¼f²WÀš]÷êH!ÞÝp%ëé>ÊÛ:ËÛ¹ÏÊ6¢ È {$Øê©Gzg[o••B¾V¶1Rhçë¯ùi²•(K>‘fK¼“M¶÷&¶
-æ6Øú$zonm°MhÓÔÌ+oî§d—¢ ©pÝƒ\vFÎ\Ép6p}Ÿ·ËÓÎ¿È¹/z™ä¤Ë¼·Ý¥B„Ondt¶îTrÊœ:Ëi7R÷ìàÞÈÉy½[c=rJhëŽí±ÌÛUÕì¡]ûûj|Šì¼Sc‹ñœIªQµ™4×Ùµ—ÞˆÊ9°p#§„¶îØøð‰©ó‰t¾ïÖYæ²²eI‹lÞq²MöFv‰wª9­³6ÒaÇÏFvëHnDåÌ©ž §„¶m¨½"¯5[’^»P±óIe?a¹­Adä="†D<]DÜ6¡5‡ó‰¸ÃŠ”C ëNû=îá°3²¤&ë×A¬=h¹"»Û0ƒÈosA:Ëõ«0ñÌ öA–½qÄ]/³0Lš·dONErÃ:EÉBSøDd4É‡×¨Ñ7w¶ºš¥xÒ@{Ó°¬=·E˜‘VbË™{è|&²kA	<£TcÊùå²6vçÑyˆõ	ËI;÷JÖwØÙ¨Gei—CãCD’à¬ƒsÎ“ö	Ñ4ñ÷ 9å¥ö(¶D¬S•(%Ž¼gŠ}1Œ@çfv^~¼“N%¨4 ïVÞ[¨_zgmfHz£³N:‡&„Ï)äÌuÍƒÈ§°¬½¯vÃ4UZ¼£EuÙ7è+!×ÌÒö’hýÓ`.Yàµ&±$‡ç¦˜GdIyµ!ÕlTŽ}j?¥åÀÒ‚zà’?)´G¶Oá.Žs™ŸYì —²ä¶Z¨2"ý_{àõoR+kÜ¬Ã­:OÞSdÉ¹Õ^%6Âëj ëK£o®y­WÞo«|.$s®ªs¡È%æÝ‚e
-»Ÿl‹Ô‚: i‡c·õÝ¢ÔûMìd¡•ºOÌ#÷Éa2Æ[#	»‰%yõÉwl[½Ë'fCV¬Fg¡Éùž*â,+lè‘Öƒ.Ú8þ…³2m$ñ™yæy‘£ÌuÏ™g{“þ)5Â.½Ý+s­a!,MéÛÎ§uƒý‰`~ñnw°Þ#'áÍ£zÙ 62ùôXúž7€µ2ÉJXO-:Ð3ƒ×:¦amtÆ¢VÒ$§¬Oxšd$“D:ÅŽ³ÖŽÄ%@|XÒ©öjTø|i¯Â°Šã¹…œÎa}p*a¯Ÿ˜¦¶½¢¢~'ÖU_²x®J	E'›e\#<å†Ý³J­ž=”½²Ï,güÍ'#÷˜Àg}SïxbeîO|Î"Šìg‘ÎÿRÍ{g"Ë_êi#d“N3îTRÍOà|æ”ò“‡Ë:i¨{gÂ“‡¸Ûº“¸OPÄT…†í¢9ï}‡Ïš²X+Ànç²‚9¿8=Ÿø´¢ÉèeM-æ¾ûŒ|	ð‘i›$ã,õWrdOAè¬¬¤=ãf£³‡Ìsi’µµ%˜m—Ä™‚4¢·‚§ ²'öAc¼žX^HÔVAK¹ø£àìÀ4t¶»äc¥J}f¡¾.{žr–û–oæ>)áñPÉv^ÒÎ§1'Ñ+1¦ž/DyäE´¾Ë–ýH¦,qË~QÒð¨Š<©!¹W$Qðüˆ©âÃ¶Ûo„Ö[Dâ.Ñl©m•¾6n	ò_‹µ‰¬#Qì¹RiÔº¥S‘ÝË0-\³¬TÒU¼Ov?­¥I½5”=}oß#â 2:Yràôd3,oŒ{EŽ\š=gæœ-7ñˆ®Uö¼ädh¯¶Î`÷)n°Ö·S‘„‹ÛË¼¤Vð.áùžH¿nQdJ:¹Ú~-àyÄg'm¯Ðtr×öÎ3ø<µ•=OŸpˆeq¯>­qšÁ'9}¯ó$¹Å&–¼0ŸÛŒ=_ŸíLÙ'{>´)rÑD©Y'yÆ~ô
-ÞC@~d¤w>]ÙrNI5EŸâ9ttGÖænDÛPBšAiÿ…ìÏ±õÆ}ioÍþ'ß[×D¿ãùÙ*§qß»ìÀ5šÚdkÂRòÙùîTOS:Û&ÐN})Z3†ˆIÖ®Ï§ïb³š„d±&ÐŒZHŠJ–†Ç”ªøär’~Ï™ÓBzývNœ Ú·?Ÿ8-Dô>q‚çÈÃ·sÞ´¾Ù;NÎ›à1òÀúÁ`>eà7Ë‚ë»G*=Ÿ6-¤’^N› ê‘xàNI•ÈÊ)§MaË#6ÁEaŸ6Qé²Hõ©ráÔÇ`ÎÌ{Æ}£Ó&NÃ8m¢òçÌºµ	yd fÁ¹DÌ¥gæ“æä±ž8MÚÉ<ðÀ‘øÚRÁ_U¬¢Tg˜´„ua;){A-$³·$.KJ‰=p³pŠŒðz	œªKkÆÉ']ƒòƒOš˜Oìdq€yÂHckuJ\ë5A¾‘€ÊËd¸ŒÂµ}³îÀydöÀì™Û)&²ûöÑ¹ô1ÿ[j)8;B=€wñ…°N<xÇ$ð‰Sâ¶“mg»Ã µ"r«ö^$9‘>YOÈüMZÕª*ÓhŸlYXH#âYŠpibša®.3:¼³íK€ÐnØ+Âe2VCeÏ´Ü¤|´VàóaBÃ¶,–1!™Œ³8ÄKJ#HÓ¥<‘×ÀP3—'N:WYÚ3Š§ûåÒc\Úó®é2:C4–4@ØÚÆ2Œ`²CÌ=OAã ýLF[Â5pé‰”ØF6¥ÝSf‹ØvOY,šÒÃ‰õóQ›ÌÁotnÉ)ø¾ÆH»üì=¢¬Øà­Nºmä6‡Ù{ŸÚÀ
-ÑÙÎFß`õ;¯;±°mUFcí¼”½2‘¶ž„¢p.IÖÐPhÞF.o&Ÿ›Õµ{Ítê¾¼NÎÆYy@¿c^o­)2È½Ž9ùqM)SÖìÆÞË»=K§ó$™-e°õ.ÉîPƒœ0	çšðBl²“e¶©Dõ GÒéÑÞ¹æd‡©CNœ¤çëœlñ“™ÂHãœ†¤_ð›a¤“çK­2*ŸñÖZ$ò]ŽµnN¬íÖ"«ï·$Ã‘BÄÓ¶fÙISC©žÛ’´Éš¤gKÅ\ãÞE©Gbexè3Òuky]Ð^.7]hÕ:í¢¨ÁõÌã‡øÂMÙCÙ»jï8¹FöKÌ9Óý‡¥ãí‘™X—`½F<s
-CÆ!ÍŠ˜gÛiÃyÈÎ”&•XnÞÁl£.ï±™¸ŸòîƒÄÒpÎ’sªl=Hy¯¤)ä07B}	ÏžñìÏì#=dwJ´ƒ¡_e?+SLuS°b*a¯oh×Ž=V@¦2sžZÄ)FœìëÜÇ^YI#‰øô«¬ÇhÏ)m#äÇsØiÄàý÷ÚO>Ó]vék¸÷ƒd…P>cïr´;ÅXöžÆ¥´÷FÞåÖ`r;al{fë@ÜÒï¨jÓô®‹º›Þ™WËxãÝýfÍþ}uöÿ˜š¬ì,!,!en™)¦¬Ú,eÄdEˆ2bùfK+8öŒDƒã“öñÈmË8<®ÖÑ½ì·ìŸ§¬ (_Åv_¶úDîÉŠó‹ïlnÍSYYÎÏÏ=È7´í1…<v)X–ŒeH›°¼‰«ÞÄHÜÒnf/Î”¬lÉlK¿kMÜó±±Õ¥žyMëqÞ3Ÿ=A{Ú«ÃdÝMjˆ²z¬g¯cÿê:e®±Ä[¹•µ°È
-×PßNÙj±eÙóYûˆ-‹>Â
-Z¦¬¾¤Û×´WèÁÈ”št¡ØšŒRÖ—bë{å'*¶. j]ñìß¬—]¾ÙÙ¦ì8¨ÛMw­Âþš{­ì[dÕB,¼[¶&ˆVÄZèBX“ÅuPÎ ·‹ÖFx…XZ}7ëÁú²ÿV–ˆD©5èÇAÀö	iF`ËaB;7¼Š—ÌïY´OÑÁGéÓœDm$‚nM®%3M‡ÖïšF“+-Ö å0›„0´ ‡Ä·eÅ°:a²~ß©ÅÚ –áG,,lX]A2ò¶ô#¼F/ÁQhº Ö
-ÐÁ§®k+À:´œlà]ºÇ.·ly6÷8HJÞv€.Zé¶,1VnÙòÜŸ¹l;@OÅØà¢8Ÿ†
-ïÄ÷ÅëâDÒ)+ç9Ç·ãqºtÑÈž¡ìqÚ;ÉÇã´C(>é•>á;Ûã´Ch>‹L’ª“\*>§a¿7ñ9…x˜¤/ŠÏ)¼rYøüz#¬ýˆÏéBÈ¿zûœ.$ÓÝgñ9]Ha„}NB>ŠÛçt!|Z*>§é|3p2ÅÈì¥6¥43}ŸÓ‡èw‘\;xÂÓ)"•l­*ìÄ»>„–úv¼N×wæ;–ìu
-õªø.¤ÐyœøB@XöxJ2ß*Z$Äë´C˜.²²×) ¬½5©Me_üNáSF‘dºÜsÏSŠÞJ7fe4×Iv.ò<…o²ïÌ=éîâñ<…Ø±4ûÄóÖèi•]ß(eEáÒBe-\JÒÉâwJÝhcYb!tçmn
-mã…>Ö*ºñ9%ù°Ï)ŒÒ—ÄëÁ
-é¸ˆõa¯S@Ø>Â^§€°Ue¯[àøœÂ7ßr®²n¶Û‰Ï) L“x†d¾eÝ*µtö8…9ÔØ>pæ™ŒŽ="û§±×)ÍNñ¼I<ƒÛŠÌûÁþÏqÏòÎs‚gUn´~‹×)­ùÛñ:„ÖGñ:…5G|ì’¬92s
-óañ:]û‹’×)¬~´ÆÊ) ¬Ž¼Þ°ï¬ ì/ö‹7ëP·g¯SX‡y›Ql,…t¸JkÒ^‰Ù·V¼N×¾À7·Åëv
-Ô÷Ùçt}7šùäs
-»Íñ9…Jl©Uöµh½7`§Ë¼ò6Ù¹—Äçt!ZS|NaÛS¤häÌ•uPCgŠrö}·ÇÓ¾þ¿æ4@•S§Þ»9Gi™=´ý÷ámù ï:ŒGàã 'Ýª²½%³‘}2Ò[ÊÁxbd—¸¶`=:²S¹òPkÒ^”ƒ¨œò.oFT©m>”wŽÑJ•´KŽ‘¥ˆuÎ;–!/&PÐ˜…úŽt–:$Î%XúHë¼¦À‚ÃV–r`B“Ua°ìC™tQŽgÐA!Þ“)
-ér™öŽØV‘ÅªPáô­ ±	ÙR’
-}óÝ®œ¹løâ0ZED^ZG¿ô]ä»³WCå’-„lÅYt˜2Y?ßV›2¹ôytÉ‡Ï0³ìer{9#)³ÐYr‰;ŸL’yICò!;)j¹\‡,÷ó¦a‹•¬ô¡‘TúæÎ©eî¶Ø·^#”óÝX7æU*Xœ±gÑžV¹ó-òÝÙ;‚W0r³EÝùú}GY„õQ0…¾ñc51R„f·o–|ú+D|@œ«Æ?ây²…SÎV °¬™K½cæsÖÆú1–-œŸ…jA4,!AMÑÐ÷7{Ô$³€î:ì£ÐÂ\š¼gŠØmåÜ¶6BâYÉ¶‘Ê±U®Þõ½¯¾Ù‚Œcˆr22—N,eÊ]U9G)3wöð˜’ú­V0³ ö²g{‰œ±Zq]ž<Né JD˜ì›³ z¨’¶*äP¦ØJ–’±ïQ+²ÞÚWc«MV³Hs½‰NYC¢1ßú^ñÄæ"5 å‘¬r›.ÑˆöB#Yú‘}šÈê8[ò±S€0J;hòEŠ@r,86	‘Õ6ÒM"½¯°ÍöBô¾RØsäì+‚œt¥³7Ñ…È^rLzOßß{or|ˆw›LìƒqÎ'ƒ†[Ÿ|Ÿ|ù>ÚD¼úŽøp#Ûb§ºSë\‹Û»7²å©Áœœ%Õä”Ð¶¶WjÎ%
-]k$£Ž«Ç25¹ÁÞM€pMKÜ©±Ÿxg_Æ…t’»HÏ	,wtþÇœFø.ž·L!~÷¢W§FkHòÔ©ÍsJOœ:{¿¶Éûc¢QN~ö”Or•rélíhWa!|rÚØW²%ÑÛ]ˆ¹ÕÅ+hê|Û´É
-ºÌµä§\gÞÛ«^Ú¦s¼'ˆ…ƒßS,-¼+¤!ðu#Q¼6(ÍHì[”Y«Hƒ5¥µâÓ73„š¤ü£ÑÙ)ÝÒGDÝp¦²±‡,zÑSkNö%¹…Dœ‡£s–,B›‚o%ŠW=¨`ìÓÙ>¾D8òÎé’fˆw¯tÎÔ	‰ôÄÃ‡Û?óšŠ6ÁAŸ‹n»a†]ÎØsèÝÚ:sÓz åÈ¾6¥r?æ¸W$®SŽI´n‰¼BæÅ–¹wo‘{“/¤rL¿Æí:äzµÍ}°Që’ùZ¢M’äæK9±ÿ{él!Èâ)S†¬7‰âD,„GcN|¢^Ä3#'¾ÃSæÎ§ójÍ1P2häW™‡9“?c H"ˆD‰óG¹lcf{]ÞžG…åª,çûµ²<±H†¹_²¶ò‚¤ÅœÛ3GšÉ¥á8C€ðìŸ…\‚è¾¼Þä"7MÅê•‹¬‰m™c½„&úB.Í«ðØÎ£Úµ*µ*…ov¶ƒ4ö6Ø¥á{4}=aöE]H£qÑw?”Æ7èN?p,ÅÞ¤Ïsf‰œÆïž UúŠ×^ö#ïyûk–)sbÏ–6“ŒòâÝ	#…iÉF^ ý¥!2°Üá\ñ¶PãÈC0B9rÛnß$÷b“ôJâ²5öö…ùÁ+:G]ƒYÅ‘å‚Œ€È;™DTƒÙ)÷k³Ìé,rÉ”™ÅÆÍßîçðéíZ;†x}r²¾ˆÌöÃ¬w€Šä)«Kà•£ŠWX<wë˜²ÚQ|ÑiJüË)»Äiq^w{Ø;¯³ã£EÙYÚÞ·|`E¿<–L“Øw(Îí¼ïþt“š%’µ“p¯q”TØmhN6±r&ðL#‹šìr®.»VeK—Ø£ÖN‡rMØœ²Ü;²¯IÜ¾Yû%Kpâµ–Àoš¤<ÙÇŸ9ôÎ3g!OsdAÇÓœÒžpÓmðrZÆŽÁã5uö¼Yxuºy²$¯¨”¼ZÝ©øždé¬“Œ÷ZˆßÏ	{G1‚e,1Zå“ôîˆœªìöŠ|G“¼°mÐ­EÉ…-Ç³ÇÝÆ™-ùIÚ¦p¼Ìyòca§bHˆ;g¶.ñ.K£‘¯PØí7ØÞdMÀÑ…v÷d\‡Èg<b#Ç§Û2ÔäÛµA´´4{ÊÉ_š™-ü=oY†KÓ§ Rb±]%±þ„##Ò¿ÃÜòøªYÅB 0ÊHÎõ´«¬»!Fñ8ÌýŒbª².TöpÉ²ƒ‹å,æ-átŽÌ–§ä<H?Ž¥H*¾£ÙãÖ:ŽdX¥<‹¢ÀñšèVó‘ÈÇ)ö(ÒL‘[VMÖTÖÖãÞ¯#ß~‰cÓ°•<z8ñäáÛY$‘ŒìÎ‰ãÍ¥°÷òMŠ¼?±],‰Õhí?hßLÒIâcf‘½E]^âÞ‘‡Ð.¹eÃ4ÈÂÁçí!ìŸ[†	Ì•cÂ~+¶Í¸¥%ŽõÆ±(a—f˜(|2ErŽ9m‹vû˜e]Î™âÁÄÌ1Ø a+é–nÁÛon5©Qfï&ŠVKY9òÜrÛ¼ÊÁ¹ŠeR(èd®ä-ß(„oòº(Uó!›$ò
-[E‹ØEP*$»ÓÜµdß™˜¶Ü3Ù[ð´ß’s«œG,«[rLl­j»ý¢Xövkq¼Š*'Æ9ÖÚÅw$S?‚ý‰¥šÁ‘¾â‡â?“˜B,;yçAþ±Ñ0àäm=|ãžÆ/Ú°ZR2>Ò4‘``>[ˆs°oÌÖ98žgß„LQÉÒÄ©ÛÂ¦È„±]iÏýœÙÿ¥(i‰|hDŽ‰¡2"’Y`½.ö‘˜”]D,‘û>‹ÿ]üånOßkeæ²ˆþ8¹´¼#L¾5÷1èÜ¸ñ­]ÔJ™fKP3­tcï-y"/ÑLm]ä„™°oï<‘ãÙmYhòv«ykÞ4îZÙûàR÷>XØ‚)eì1’0ÓpT¦v>…oÂIÏâû0ž¥¯"UVh´/g°X-Fbû¶h5`“àÙ·A3°où‰üuÅªÁ'^Z2î¹/mË1%Ç¡‘ûw[­|»Žïy"wòšìãÆ÷¾“f—;y"ÎmGß2í¶µ‡=†øîaå‘ù»í]3e>8;4[·9Êè¶JÄÚ·å‚GUÝšyà¾Ýv¿=+2ÏÍ­¼gWæœe‡fî.Jä“ŸÚ·BÎ*š¬+û<C,9rdæ*^9v¾Ã˜eŽ£±ãØ+ç#g09±Ç¶1åH¦YÇ ¼^‰å¶RD>‡hb×Iâ9]µƒczÊ©ÒàHI²N§È1;c±6’XŽÄÀ-˜ç–ß}[—ä[¹o»ßtÌMÚ†xg– "E:¹žÕ”ó‰?GÒlð\1î~Á=7ïÕ3³ßlÞ©µVÞò_ä:å´ÇÒdY"Šî—çÈšï‰ÑRK$CäS<aISZ<ð­ñ4y¶t–µÄ“6M¾ÕQs),M‘Ü'ûô.:¯”$§§´WS‘áRí}Á¡‡E—¤1´ú“WF>Þk‹ÜVs¯O<ÆãäÒOà{ìõ*w–BE« O+òBßeá{ûQYki_!ŸÀßv·¶Hóm#µY“ã›ÒQ<¤Sïì;ždUîeö¶½™Ff”óm|-ˆ´Š¶­ÔÔzaïi=Ó)×ö\O=ILp¶uóÊD*Kc„R·-žÎ[Ö&kXQR‘ÖN‘ød`È-¯}2À‘Úæ«õÁz$çÂþx³ËÉÙ5çn_‰¯6KßÇ¥ÈrFÁ¾h)©“Ìu·]ã×@Æl;ö}’[æÄÎPîWhV¡–µògOë@”/èÅµËc:÷Î¿øþðì†ç_ÿûùæ	œeèÀ©¾&A(7RÂÁû\R¡aÈQ¨
-Š×’;QY©Pñ_»ƒý¸0¤Â»c6+ÿ¸0¤Â`åá‹B?.LS‘sÙ‡hnÝE\˜.ùy$Ìcº+ü?.L·hc'†T%y…<TjnC*TŽ2ç.¹Å4Õi'œòœß#º½éò¢GŠÅ `ÞœÔjªfÓT*¯4
-×mS	òŒêpìh±TC*4¹™ì0¤
-\Ÿ3‚T¤&˜ì0¤B%ßŒ`‡iªÝòÑÜÔv˜.¹ÁÓ­ Æ”Ãt‹ê>´Øãê¯çÏ½_
-éÉ•—u¾²þá?ä·KaÁ³¶µÂîå+¡¼&O·•NgBâ·¦ˆ(]kAžQnÏ~-•Å
-íw°œ%ÕbH…ÒÝBòØÓÛbH#vœÂÉRa1MUø‰¦9µðZL—¾$yAÞcº%È—Ø¶aºUjÊQ·×¦WÛ;e¢ž.µìIg1ÌõKe1¤B)È´„ÃªÐf¢ZÂaºôyOsŠÔ¯ú¦¹¥³Ü;L—<éin0Ý
-IOsƒa‹¢to©,†Ts:~y¨=%ÿÚr7 hÑû¢äô¿Äô¿[/Â˜ÔÊpº31‚KCM¬FE4ÛÓFÔ6®>Pì³˜@• jsR¡ÝÎlOCŽx«Ç–Ëbº\c¿)9Ö4ï”—¬,!¡&j¶M‡!U¬Wé-TtÓÕRY©bwü4‚!‘{ÖD‡UÀwírÖD‡i*Ý
-ÓÕVî0lŒh{Úbš£¦
-¨­žVXç{è³§©<TßO·èWçÅ£û…-8½RŸ3RsXft»xó°ZD6¢©
-:áj*AžQ~×vn¤È;BmÀCªDKÚ€†Tx¸j6`‡i*µ;LsTÛŽÃtéÕ¶ã°Ó
-jc5ˆnMMÑ}O×o9zZ©ðªmu‹Ñˆ^<rRá³8–£ÅJ&Õ;C*˜ôR`0MUôR`0ÍQ÷ŽÅp)¼Ùê¥À`šcúU	º–_¾ñÝômÉOßüômÑOß(ª:ýôÝÈ3ªÍo±ùœ†¾uÜÓ×aHuO_‡!Õ=}¦©Ôôu˜æ¨ˆÃtéÕôuØi55¢[SÓT3¬€ªñ„VÃ±¶,~ë×Rà	ÏBŽôá0¤Â{«DGúp˜.Ñ™l_úé×¤Á?ù‰4Ø²—[¼¥Á:¼œ×Â-çÕéå¼L=ú½œWç-ç99ÞržÃt¹”„S»—óÖî|ÉyCª[Îsöí-ç9ŒÆ›“ó‚·œç0 ª·œç0M¥[¡z9oç®ä<‡a+ÜržÃ4GMUœ·ðKÎóPå_”ó`¦ü	LP'Z„`¹úx²üÅ|7UR[G7”Hí,x<
-ý¶S!EB×: Èèj&ÑXLSEvÒûqaH…Çf‰Ç `1¤Âç@Â«ý¸0¤š}×„i‚uÃ°–ÆbH…îO–›Å
-ƒ•Ø’[Ì´¦j‹i*Ý¢Øêp`NöCüSY‚)Áw;–C m‘ÍoÓ¨*^ƒË1X©ðàe$	ˆþãÂv¨ž5Ü,¦FIù˜&,¦Fœi‹iªÉ×P~\˜æ8Ëpü¤G¤”³%Wn@Níg?&%¨‘fh,¦F‡â¤Ý§´A
-<~µµ¶˜¦Ò-h1Ó÷ª7,¦K­{ÖbºÎùê¢˜yQÌ_âÿóÖöÌKb—Ã.^ 9²ÓDŒãÿÀƒ^Ø8²ÿC*|+D-­yàA ¯ƒØZ-†T¤0Ü%’îÎ{@Ë€ÈWgs
-Õ‰™—ÂÓ‰™b”œ|¾(ß•R*.°È|Ü;ÖÞõNïåÛ Ö£®k›\ƒ Å€!ÖØóæ‡C€bR‹!úwiNA
-Ú ðNZƒ!¾"ÖÜ(ŠÃ@^x›Ø,Ÿ3TgQw˜æ8ùÒ¦K?sqeD·ÀléÔÏ`º5'ßûqa§W4FtÏjn{¨ñ°Çz©øöˆÎ‰ÞÒ±Ü,†TÕsÓRà`ÍK#@Ñ1ö†mi‹!úh˜^s˜¦êìAôãÂ4Gò¥üá,5úmèq«‘Ss=ú5‚èõïhöP-8i)*ÍSZ F­·µ¶˜¦R³ÃašEÍ·üÓ¥Ö½a1ÝƒcÞþ¸°Ó’†¦:
-n{ÍÍbºWuÉ-fÆÑ·Ï³Bg¼ß²ÌX_[£×þëŸ¿[¦+9}’…q’bF#¬L‘Ì¤¨)gª:©@’
-%o¥l#'Ú C9“Ðaº<yF‘ÍkFcÍ)¡»-Å
-¯]¼*&‹!^Ñ[ˆ,A
-¼4²¾œæ0¤
-\ò3Ì¦©»
-ÿ¸0Í1éæ0]ò¦+y
-Ó´@”©oÝ’ºÿ-öP= ©,†T´x+nAŠ’ñû”X#HÓÔ[#HÑ“k?
-Ý9\tjD—ôŒ
-èÚêÑe±Ç5vYÀð±j¤b@œb©†Tè*n8:ŒÄ\NÉ‚ø(‰©¿Ã*á&ªÛÑašJõ‡Ã4GÕ¯Ó%ß£Ã ºâö¢[2j¡Ñ`Õz<[©ðÏAŠ†æ|5ž5‚!3¢-†TøhŠÕÓTzd[LsÔ£Ûbºäg|kD×^o‹=®±Ì["†[€#{v®Øˆî•Mu¶W¼”oGœÅ
-]t%w¦2mÂGŽ¡2mûùãCª6ñðlú9ºvk7äÀos,QÝš*
-§®©¾¨ŸC€Êù­Ç¯-ßMC`Ìö‚ñ‘É®W2,ô$šµPˆ9ruê‚Å4Õ1×y©Ð´múóR¡Ð²mFôR-ÁEjÂ4
-Áº¡Vni,†ThH±Ü,†T¨ÏÙ’[Ì´¦j‹i*Ó¢T¿(Æ«Ý.QŒWQmg–“iªcšò˜æv¬S=iÊc»gâ‘¬-‚-€"¥¥±˜êÃÍb¯qN9³°È¡øeCYo<ÿh†²Þx²¡L¾YJ1õ¶'Ó6”y©Ð,¦¦³A€‚Œb‹×6”y©¨3îER×7ï(
-}od([ï_’B©ÆÓï©F†²“ÏW­˜½á-ˆ':¿²Nþ_o]x0ºôj€Nï—®§)—}‡UÅ×C;CÞTC*¼¥Û!¬l!C*Ü0;,•ÍÝašªqŒÜ¦9¶´7Q‡éÒ7Ž‡öãÂtKÔ¹·I‡=Tjª„Ú:E¦ÒSÄYŒP-4
-Ñù€_€ÔÏbš*sœƒ¦¹e~eùÇ…=T)3¿_ñãÂ€*£âìžž¶Rá»TŽÊ`H…‘x-G‹éž.#_ã0Mu8~Ñ²·^1‡ø%ËÆþµž½5@G´¬Á›xˆç‰¶AH–
-´¡ô’EâDQe
-ã£¨òÀËÜ‚•Å4•Î«¢|®ËUQÎvTCªL]Ô•ƒ·Å
-¥ï5æ9R8Rà5³õÝ¶6à0<¼˜4lZÜSØašª–­¥8Ls,£Ÿ’L—¼ÔéJˆn8®°õD·¤î‹=T*ƒáÁKœ†×ùÆ_s6e=ßøk¡J×ØbH…¡^lëYLSéž°˜æ¨{Õb§ÔglœïSc=¾4ò¸Æ.ÑäYÌ8²M)‹UÆmÀô^eÅòn|AtOÔ~:ÄH—\ þÏsÙÂ`˜†íÖT_Í~y÷çØ¯Ý¿?Ùýûµû÷'»¿vÿþd÷ï×îßŸìþýÚýû“Ý¿_»²û÷k÷ïOvÿ~íþýÉîß¯Ý¿?Ùý»Û™téIpTC^EÙûø(»\{ì\)r?‹¤{ð.KØíe1¤âú”ëk{hÿçÚCûµ‡ö'{h¿öÐþdí×ÚŸì¡ýÚCû“=´_{h²‡ökíOöÐ~í¡ýÚC»ÛCû“=´_{h²‡ökíOöÐ~í¡ýÉÚ¯=´_{hw{h¿öÐîöÐþdí×ÚŸì¡ýÚC»ÛC»ÙC»ÛC»ÙCû“=´_{h²‡ökíOöÐ~í¡ýÉÚ¯=´»=´›=´_{hw{h²‡v·‡ö'{h¿öÐþdí×ÚŸì¡ýÚCû“=´_{hÿå=ôd‚|uñ]Mê[I¿¢-ÞŽa›)µpQÇÛ
-Aë,ôY1‡ä
-!û-ŽKc0:þÅõQqÒRàùÛ*›r5±RÑÚX´«‰ÅÈÎvñ5øÕaºÅ•vZ0˜æh ¦K\M4¢[@»cXL·¦qì0ØéC£Ý³š›Åj<÷¨þ'§‚çH–›Å
-…-ÐwÞb:/ÝâC*<[ˆ:Y°Zò1$­¥²RÑÌ7-öPµÖ¥·P%šì¨²˜¦ÒîÓÛˆFtÉÏŒÑˆn=ó,¦[SSYL÷Ìá¦ÝÃRâ/®gèzÆû?¶cFˆìM©Û¯¦UÒ‡J£|*Aô‘ÅªÀéÅvÌPßøk'ƒ¬rÌp˜.rÌ(l`UœØP›ì–Æ°ÐËm!jb[©øädk„º³Ó·:È¶.¹žŠÓTú Ûbš£>È¶˜.ù9ÈÖˆns­Ý’ºÿ-öP=`¨FKä¤q£<ÀBKmÆïSbàr†«·F"%×~9æ°U!‡‹îOè’žQ¡][=º,ö¸Æ./q¿MÔDÚš¥2R‘mÖp´R¡§˜.¹F€"’%ØÔßbHEVeÓŽÓTº?,¦9ê~µ˜.ùÑ-pF˜FtKê‘j±‡êCe0ÚžÍƒÃM!¸­àYºÄ¡­©}÷#ÚbH%§Ñª-¦©tXLsÔ½k1]ò3J4¢koF›Á×X&ª€¾˜«LÛBÝÞ›j‹ã›ÙúY©0ªŸäÎTC³<¾}`¨†Tm×ptR²•”K…A…ªÝ:R†¢c<^›‹`{ÄmDµ¦ÃÈàÚ©7¿è˜±m;!áK]àù¥»—ñÖ°èõºK‡*rèøîÅ¨ó¨®ðú¤¡ÁïöÍ8‹`.øb¥±PÑûÏÙ7=†Tø&,ÝªlBe°Ç©	ÞÆ¬Be0EUç¾Oì1Å±Î}'ÑcªôuîûÄS-aÚÓb»E½9§K%H?ñ)ÂÒ¨MG [#¾[yc¼pPe¸[®h¾jìk<«éÌ5ùV¾ Á^ãY•¸®ñx©Ü5‹PÃúk<Cªë—ˆ/lÞûºÁjxwGR(ï„à¯ñ@wýÊ5žã™g¾ìÅõö&¾qv|˜¾›§½¸„b_*%tÚYÏEI‡i*uéÒaH•¢óâòRá[Ú¯ÊcHÕH.TK†õÃ;Á–ÊbH…/ìYŽC*|Á–Þb¦EUKXLS=iÕíâ¢s	ÕaªU£ºhè0ÕªÊçËcHÕµç˜þVíÕåI‡Ä_ïŽÊbHÕ­—šEb°g›ÈJyÈX5õÖÈ¡P—+¢¹¨[yÓ¥UW+¦k®Ì/ÃVÄ¸ò–Êbj´ŽÓ=¢Ko1¤ÂÈÆ¶,¦©t{ZÌŒÝ+Ñ%?=«Ýg„|uyLäYGO?~¾{ý»ŸÞË_“Tœšø;Í´ïÜ2".Ti+ÇÑÊaHÅžté8m9¨¶/ÝqsR‰/Uœø¬‡*#¦TŠJüçÆûž¼Åt^ã¸!9l·”¢ùª(ò‹aÞ%tf¡_aº³ÐŸ„YèW˜…þ$ÌB¿Â,ô'aúf¡?	³Ð¯0ý
-³Ð]˜…þ$ÌB¿Â,ô'aúf¡?	³Ð¯0ýI˜…~…YèOÂ,ô @<qO0 ñX6ˆ*“º¶ï1U?•F_KIy>;LS)Ïg‡inJt˜.¹òEvPÝÁúÜa!øb†£2¾J*&G‹!UJ®ìyÈì0m ‘C¡ÛR#‡Ëéó­KúËû@ÿ£‡"è.A¿BtŠ ?	EÐ¯Pý
-EÐ](‚þ$A¿Bô'¡º	EÐ¯Pý
-EÐ¯Pý
-EÐÿ‰¡zƒG´Ñ¾dîø7o]¬G*oY–¢ÀcâSn1¤¢@P-œí0ô*§@P-(ßs‹‘ï9ö\gŠ9©Ft4¸Ñ4?ÜÐp0QE#H>²ÃŠ"“·ÔË.¹Å_„‡Ÿ T]Û-vJ•ò¯ç-pb3á3WÏ£<˜¿q¶Ï9N]aKÉX²äþÆÊŒÙˆ&O¡¤ÍCúQ6Tôj” DU3N<T‚ô±ÙaH…¯Ú/$m•Ãc øÊº\Óåj×Ð‘:•}t"Eª	£cõVex8©°¥t¹5‘ÛDÓX¨àŒá¸Y©Å-ëeÓ()J£œù=‰¦©Ní5¢9É[¦?.k?ƒë[hNŠ¦Ó;žªö‹Œ¢Éi*‹E Ó-ùÕ¥sà«qÀ´aýÅ¿:]¨ÜÀ¯—®Y~)·ø‹ÿý?ü«·râS¶r9“¾">:9ð1_‰ÕJÏÎh*Aài­ê¨{p€Oe1¤¢høaðÃ/?.©h#¡QÈCÕ¥wÑ¬<f¨b“©í0Í­õ­[9L—¼µàÊˆnÝšÓ­y¨ú´ãsN}6¾%-¼’1\Þî•“†›ÏMuzÅc•»¦¢£t— Ï¨N^¹ß-†TAáŒUêt‡¿OñÎòR5ºKÜëö1tRnÓÝË3TéŒ+‹iŽUÕÑbºô5WöÊ£Xj\Ô(¶˜nQÝÓ{\ýEËæ¨I@òkDz… ¨õÉÑX7º†[Ÿ.¹ÃªbÞstƒ EæVKãl«3T­œv¸µpÊ­]jÕ»Ó- f¨Ãjÿ=GBâç|FœÃ*wZƒçK{¨žì¹º¾ÄP¨±˜æ&+«Et©ÕÌt˜®½šåÃöœ·¢²˜î]Í±
-ÇM•ðIa›WÁGõ¸DQÁd±se|RËöpl(„)*A4G‹a^ø Ÿ¥²³StUG‡!UåÒKïä¡ê¢zÙa†êì{ÓÜÔøt˜.ùçÑ- [Óbº5Õ’½¨v›oD÷_ÑîDyFuÚ¼ä›Êb@•'Å’Ñ=c1¤’¾Ú=£¤À§”mÏXÌP©ž±˜æ¦{Æbºä§g4¢[@·¹ÅtkjªˆÛœ—ñð
-!Ø=a§Q;‡Ã4•î‹=Tî‡ê×´ZxPlèŸŠÑò¡V»ÄLâiµü­õÕ%h5¡!½P­‰j*ÖMCªrÚcJ_ô¸ÑWSújˆŠ£ÅN¹à…¥i’ÆºÕIÑOCâ·¥\ØÖYMÙ5¢tVCc1¥³nSš$—Òh’ªä¬'†8ö½9‡*Õ
-ÓÃPå2˜è®¶Ÿ5r¸Ñ]O+°žj©,¦tWÕ¢_œ&ìåÔËW½œò^NËzà¼œ–Øy9iü®ÞËIÇöã±4{lŸ …\^N‚=¶ÑB./'Á§&õörLQ•ÛËI0Å±Ü^N‚©Ò—ÛËI0Õåörl·¨¡©øª•n­Œ¯ËÚ6µØcû=­¼ökbCªBNý†Ê`íWeÛÁbHèRn‹©Ò—!×Âb(ö›cÓÜú~¹Ëcºä}(w"ƒéV0~c{ «^ò2T{lO2ËÑbÓ«ªô_=›	ôè7ÁE¿	Wô›à¢ß„'ÑoÂý&\Ño‚‹~žD¿	Wô›ð$úM0ÑoÂý&\ÑoÂý&\ÑoÂ¯E¿Ù‹tüµ0ÑoQ£½¾]˜h‹ …m‘¶Ší1¤ra¢-‚W˜h!Õ&ÚcW˜hª}¯Ëcšã¹»ç1]z¹»gÝç6Çtkž›r;½¢il˜èÓš›}ÆÃëq‡øeWðƒèþmk&a¸âÀÜ÷}V‡aNè²®©¾:'þ™óÂy¿Ì»N¾¯À¼k§uyr<Î=†T&0¯þFNW`^éòœû_kR¸À¼kY»óz©®À¼C*˜×"HqæõR]y=¦©ÎMiŽçÖˆÇtÉåö‰EtÈ‹è–ÔýïóžÐT>0ïB\`^‹ …Ìk¤py-‚.0¯E…î˜WòÔýióžrQaóžºéÑåóú±Ë‹¯Ì­Ìë1¤ºózŒ`˜×"HqæõR]y=¦©TD˜÷ä®ú5úÀ¼§œ{tD˜÷Ô6žíÕæ=­õ6íóžÐãÙæ]ˆÌk¤py-‚W`^!Õ˜×cšJl˜÷ä®G·Ì{ÊyÆ·Ì{êªÇ·ÌëÇ2o‰.0ïAt¯øÀ¼¹óz©®À¼£­ÚæõØÝvó5Æ}`Þ…¸À¼9ºv60ï
-®À¼Û#.Þy=TÿôÀ¼ùW/u¼õˆÊöREx1¡y³½ÔÑó}©ÃcšJ¹xf©üÑü¥!Õu©ÃcHu]êðØƒcåDGå/uP,œä8úK¹.uxÌ´¨j	©ã ºUùºhü­ÜX…‚¯sìV—><†TeÒUˆ³Ü8©ºÑ5Õ÷ƒ#ÅŠþ²üÑÝð—ÝÐ¸áË÷qxßˆÄ2+·¾ÇêrÃ÷PÝnøCªËŸKµìw	”¾Ç€êvÃ÷˜Îë¸Ø{l·Ô¯»áJëØÚ³Ž×ëSxû0	ñ‘Wc}ç§Dp¢@àÀ.÷Q˜&ÏN÷L*yAˆÆbš
-‹£"©p92ý9©p92o|9©p9’Ú0•Á°†ô¥¡²Rárd9Z©p9²¥·˜nSÝ3-¯Z[^^Sâ~PwÜ	9IpûbÛ\Qáb´vÞµRõan-X)p‘²%bn	ü“.“~ÁÈaj$ˆ‚8í8`LƒoíN;Sã ÃŽÆ°½½Ñ&…ÊbH5Qš³T*ºIf9Z©z¹Jo1¤¢WVMKXlÓ¦QØ†b÷ÌÎuž1n1]jýòšÅt¨;qÓ­©îÄ9L÷Œ¡2˜îeÍÑbzÄèÒ[ÌŒ>Õ{\cûWVñöGž±¹çÛõ<csÏ3¶'Ï3¶ëyÆv=ÏØÜóŒíÉóŒízž±=yž±™çÛõ<c»žgl×óŒízž±ýïu÷ùkosŒ·îmŽy½Í1ÝÛóÉÛóz›c>y›c^osÌ'osÌëmŽùämŽy½Í1¯·9¦{›c>y›c^osÌ'osÌëmŽùämŽy½Í1Ÿ¼Í1¯·9æ“·9„ãÈ'Ý"S"¹ATýÎëA
-’Fµá°Ý’†F#ªG'¨žU¥Õˆ!Zq˜¦RwÉæõ’È|ò’È¼^™O^™×K"ózIdº—Dv‹i‹éÞÐÜ,¦{U—ÜbjLšV°Øã3/ÇR=Ž¢Æ£G
-Š}ð¨ÆˆÅ
-ï:*ƒÝäÓÜ4‚ÉŽûóýõÉÔY#‡B·FÝÑ¥Ô½i1]c=2,¦[ÏPL÷‚?Ó½iÆÁžŸ¯JôùáNäÇu"?Ü‰üxr"?®ùqÈw"?žœÈëD~<9‘æD~\'òã:‘×‰ü¸NäÇ?õD>ýZ4Ý·NSÉFÓ…£AM×"xè¢éZ)®hº*M×"HqEÓõR]Ñt=†TW4]*u"ï£éžÜÕ‰|òÑtOI÷‰|²ÑtO}ÕyòÑtOË©Óöä£éJM÷ô£ææ£éžñ°—á5¦Æw›“D‚ÕÜ,†låZE¶µöùè·£ã<ýÖctœç£ßzL—\ýö ]òºè·'÷~ŽLMôÛSÊ¦Ž]uôÛS[=S|ô[Ó@Î^šÊbHÅ±m7<TOþZôÛuàñÏý&†~ÛÓý¶'ýö ú×G¿]ˆ‰~«¿ñ×+ú­Çty´÷ƒ~»+ú­Ç°®è·C*ýÖ"Ôá>ú­ÇêŠ~ë1M¥Ï9}ôÛ“»>3õÑoO9ÏÙ«~{j{ÎomôÛÓjÆûÅE¿==`¨\ô[Š17ý–AýÖ"¸¼ºè·A
-ýÖ"‡B÷ƒ~+yêþ´ÑoO¹Î¨°ÑoOÝôèòÑoýØå%ÎE¿‘ÈG¿õR]Ño=†T.ú­EØc>ú­ÇêŠ~ë1M¥ûÃG¿=¹ë~õÑoO9•7‰~{j«¼yLôÛÓjÆ›ÇE¿==`}~‚[}ô[‹à¶â¢ßZ„¶&ýÖcHuE¿õ˜¦2~=.úíÉÝøö¸è·§œÊ»ÇD¿=u5£ÍE¿õc™¨|ôÛƒoýv!Wô[!ÕýÖcÔu}ô[!ÕýÖcR>¾é¸µ9ÚûÁF¿]ŠÞýö`ÇûáŽ~ë1 úÕè·>Èœþ|Åôùgé}/
-!4Úr…!†FW!®4BÒtƒo¸J#Š¢§ïÓR r¸Œãn³˜/äø‚;©0dÆBT€,‹!…‚Z8!,&xvTC*²žŽÃ©JvxSz‹‘„‹G4¦,v–Ûž3TwX5Õ3’»î_‹!9Éò¨`*Æê&éê	;¦]¦ªB\YLS*Ëbš[Q!·,¦K^Tð.‹‘öã£(=G#ØËt"bh,¦GŒæf±3êy(Ù ‡¢üòCÉ´4Ô†¡¾ züãŸÿ<à:²©"á÷ªâî BÚê,3T1]©©h"4¸èŸìä`LM´Öfó1ÕQ¦TÂ1ûÉ±Ž±®ÉÁ˜b:P”ÃÔkùŽ9ÈØb-ù˜ƒŒˆV‘lÀ)‡YßRYLäÚáøYìq{Sr‹í¥Ù´FÎ8È~P-Éß~P=By–íÀˆ.mÑ›„ÁtÍËöñ˜nÅ¢7ƒéÑT;=«ùiD]r‹éÑ¦ÛÀbk,‹yUOˆ3nÝ —!¦‰¢ùÐÖ‰ßf3ÝÔþQG#TÈá¢ÂÄD•ÃÇ<<â8Ïàã&žàp»Ãñ±ö‘déedloæÅˆj;Cc1MÕ÷ÝÇ/û}ýÚ¡tëôe¥Á‘ÇJÅqaº¥=¦©T€íê¥rJ{©®Ci!•;”¶9€øCi‘3‰?”öR]‡Ò3­©ZÁJäI‹F¹_uí˜b±‡ô–:¢û%·”?êáSs‡Oí:|jîð©=9|j×áS»Ÿš;|jOŸÚuøÔž>5søÔ®Ã§v>µëð©]‡Oí×ŸÔs«cP› ®}A;‹oŸ @ßK2>a!äˆµV¯ýäŽÃ0z(„”ýl‹ÃUßÏÈ8Ls¤÷.-GÂN@þ…”]*…œÀçë»îXß“ ú¢<~×!ô9øÁ€*w¼)j¸Y©jt¥ÖR$¼äfjo1¤
-“µÄÓ’3TªW,¦9ê¶Rå®F†í»·‚ ­·]úM5)Î)C=1Ñ¦Ûª¥pJo0Ýî­ìÈ}Cª™	éíWÃHÏø£j<«qHÃaG¾çÖ-¬Ë¬ª°|6¶Æã1¤bíflÇc8´Y»[ãñR±Æ£K%+Ë×
-QïhXŒ:•äÍªÞä°R±ìZÕû£NE)X½¢,¹ÈÒý”ÜbôŽËåŠÊbôËøúeƒÑèWÉ-†T(ê6ÐÈº-5¢(¶”n‘Ã¥miß"º´íìŠÓ5oÇ7ÞaºÛÙ;¦{DSYìô¬æ§=BtÉ-¦G›n‹=®±,<i3é¼‚­›ÔëB“åÖoòyiC!§G²zÑE#‡KÞET9ÔË 9\’~E!ºßMmX¿™¬ñl„ß¹Ò¼äå«ÓvšÆbŠJ½íõUƒ^\‚×¿¤ñüËôÓ‹K£n÷Ù"ÅT.¡ÓTÛY× HAC¬*T‡=öU¦…Ã‡Ãû*ÓBŽ	ÅaHE6ÀªœlTl6TC*²fŽC*Ú¦ô*x¦4òØ}pÚò|?\qÑ$/Û•QZ¶lWFƒ¨+êá‡i*å²è0ÍM¹þ9ì¡J©Ü†T°¨iïƒ<öµ5Kc1Õû†›Åv[–y¬Â9ã—­Â4ISD?Ïe¤_—tõó‰šÁžÛNAó;¼#ËÆ¤»¿MG
-¾¶ 7¢£|Œ©É—)¬©™|Œ©NzRž5Î¿GS"Bl™¥ÊK4·ù¢óÑ4‚…æ¹­ãÓïn‘bËÍoÄ,%yOO‹©Áeò²RÑžãš–{2˜¡
-íÜÕ4˜æú8­n0]zªµ-ýi	^ÞÖö¹Ï†T$ÍX*ƒaïÐ®i8Zl/y¦ì9½¬Û@#ŠBµ¥FÝ'Ñ¥5½+¯ÝŒ(m-oé„y–ƒ!_«™,ž©¦fK¢0³f¶0¶=C£µxnS±)¹ÅÔLà›™ Zá¼pTýìdLsì³;~€è’÷‘ÎFc°ÓæV· !º%5Åt¯hnÓ=|J­‘‡ªö{\cçåx’0Wz<©è•);ž†³R.|©±b15w-•ÁÔl0-¶g•)»FöÌ4m E¡ÚR#‡Ëéó­Kª{ÕbºÖz„XL· ¡2˜î3Ž¦{V#…¼GT÷2ºÞ¹S«í´0"µQ¿í<Ü´K¯S›àwnÆôZ‡‘~çfLíÜ¦<Â/>]ÛHœé¢"ìÔ,Çñk&ž0Úqù\xú·?—›âÇ¹ÔQíHø^ôaçôWRmÞ?U._5¦­¬ðý†/jsom×a`e÷¹S¨\Yu–â0Muî­h„î‰ú>Æ‡!AÕ(Ã{)4£:QrRI'S“ÃØzÔšÊbHEš›áh1¤"ÍÍ”Þb@5`¡2í ‘ÇîƒÓ–çûázHýö•kþVÑ
-…<ž+½Ô»S½ÔÓ¨S½ÎM" Þûõ‡ODùJ Výñ&6´=Ÿ~úf)Fß4e×¥Òô™“RŠAï¿ýS'vŠ(óüñ4@z‡,}žìPZZÙÐÃ¿Í 9¬í-›ÖlSC$"ÑŒ=¦†É“òÔÎ‘6Bl™¥*a¸|ÑùhÁbòÜRë~š0FÎÚÞˆ{J[L-G&/‹!ëq)Ï³hLSÅ6Ïõ>ƒiŽë0â´ºÁté©Ö¶ô§%xIÌ1f»H"‚¬é)
-…<xšŽ“ÅöòhÊ¬‘Ó»ºî9º5r¸è¾Ðˆ.­éUyWµicÑòºH5C*Ñò0Î7SLÏx²ÁmkŒá˜¤7pFB´<ÅÍbjC6%·˜š\c3T+Ô­?+ÓÇ~øK#ºäp¬:]É	Û-VAB!ª%Åt¯hnÓ=|J­5ÏLí-ö¸ÆÎËñ´_÷UãÉ`H%ZžOÃI:Š+ÓóÖPLÍÃÑb{V™²kdÏLÓ9º-5r¸œþ8ßº¤ºW-¦jmFˆÅTZ*ƒéÞ0ãÈ`ºgÕ8RÈ«qDu¯5è;õèÖ¾ulUÍLl¹ºy¸)DËkÙïØŒéÔfô;6cjÇ6å~KEf*AV5.*ÂNÍò~_ä–_–è—–úùíÀ^1ÔÖéš8'l¤×Wgc0RAg%šÇù.tgçEªo7Ì;Õ'œ8çÇÉå3^wºwÜ¤î¥%Ê7òŽÛRL–,í	‘`,æ™#ß¢™-Â;&Y'¼°.,¤B[ç™zd ¿…ðË_p­ˆtFú²¥BÎ)Ò+;‰02òŒƒ^d¤b>±t,- SÅ7¤Ï3°¼`´.$áÞÀÑfÙ&	çî4ex8Uh"¨m€Em…¾k`Þ ÎÃwäò–c”òÈ„`ZàC‡<	ë¢”7£µD|ó »4”¶pšŒ5Ò¹FylzÙóEµ…ÔÎùÒˆ‡vÈœªtæÍ—É!ŠÆäœ‡Ô	c|ai˜Ö”‚ÈäzÖ0—ÁœÀ‰Ó´À¥Ëñ.ü]©N3IëâJ»êÎ‡h€ÀØ ¾å~û-òKÀ)Ò¨Y#ƒËÛ©¼)Î§Ye#øÐ4NµÎ±Þ	Ç."µÓ8šUz*E³±î6†:¤$ù‚rü{–Ò•Àß…ÊvÚ›Û%Õ)}’qés—ÓÌ.£j$š_1pm¨ÏÀ_rè9ùû·¿|fZån›ŠbÆ€K3—ê“z§òN)]¦9°~á•º[›Gk+{ŽRy3¾Œ3’Çw«Ø¯ð¢·Sé„ä¶ùÀ|¦yÒvY"Î%)KBýæ›ŒùˆË.¤Lî‘ˆns@#ùD|ßò‘Yç>ö?é\²…ák£ñËS;Î4šu#<Srçž¨ydü…ìK8Ó¢/eˆjÞd‹èƒ3EêhœT1SÏ…’¹Ä±uJ•düÆÙhn'ã)%ªC–µrµ ó¦žIè(I³’J“ð+è»"4ÖÎX¤µR¥õ))1Ì´Ì3…|YÆI‘VÇ÷Ä`.È.[æ9)µœ4¶RÚ-ëLâÑy…Kì]m71Ï8‰Ç²Ñ<Qz¶óø2:C§>JQøÂûTùIU*íDypIBáœKß#„V´ÔeýîXÃ½§Àhœ4s¥Ž#á·äbçä‹™Æ¬ùj²·ã‹Õ8²0ùï€¤Iýxµ‚8‚´÷ÔÆß‘g¯W tBÍÇ\ó+Ì:y°ƒ‰gËb HÀUbÁp=GD©0£ûj"¤ÒŒê²š.;$¶òèlHìNh#"I|“žóâ /^s×öÎ%Œ¼^â3›HSyoY]Áå™d³é}àI.´µóB*îŸìc	ß´×,“sY†:hsŽ Šß´?Õ"e442	¦Ï™xÆW)Ý¼Ÿ©wÀ²Mr„§<­tƒwî´ƒ×5jaXkp¥“Ù=¨äIÔ—äßsYÇ„Déïˆº	ÐAÊä\¹o«EðÍ+,^§Y‚ ÇW–y¢Œ†©RÚ%a­òÊ=è- hïÀí½ÚI¯}²œ”B’Öžg?óyÒwŸ¹Ðã¨Ôóævâ±Ò2ÍìÆk ¼Øs4é¯JÒ¬BZä”G%¼Ê{)ïz 6òN¤'K¼¹KëG’ôâ,2o2·KeŠ*#Œ×øyÒºƒw‡6¥fá=eJª‰ã¿J¯%|Ü'óºFH¢qÚ%ßhw³q¾°6Ëº$iHb+†oÊ»$ƒÆ¬=\Ú–Yža©yDÞGsî{ÑÚ
-¯HÛM,o.záZZªÐ´D4™ÇÔé§$å¹úÒ÷öúNT¾4edF’ˆ³ÌOý‘¦¤½L¨A‘q·æ4IN–ˆË’¡F¥Ç]¶ŒehF&ÛÓn¢I{í%i«p´zt}þ*$M”=VEêƒ;ˆT¶Œç¸«>²‚‚”æÄ>9S_€]	{:7Î×îR¯ö²6ivÅÄnp4AZyi$6¬Èg4>ZI´âðÐ,®øµI¸M†+~Ïëq —Æ6¦…`LðŽáÜ¾¹‘†GÚ
-¶!›,cq n¡ˆy´¢¼wÜ¤ðà³ÓªZËÞµP& „w…Búg­]FP }­¶.«N¢ý<§	é¿eoîþ
-rí$!õ©$àk@{hGwoï½¢Ý:c*KÝ{@$–%x]‚Èf¤oÎÎß¬«en§¥¬!
-ö%Ê¥%Þ…ùZÈB*õäÚ¨†¤°™§ž"ï÷¼Ž®p½Xµ¤GWKeêÇ.ëJ ØûCxƒµ¤àq2#©"EZ½à20+^IáÚ™ŒFmÜz•™A²áèqÏžð[ÆÐ¢†ï"ë>øA@ï¯vä¹SH‹ÂZ22©÷×°¢žX¦,ñC°ú­Ñ_z9[xTq™mDC»¬åT#xÌ ÷;|¥BrÆu3Ê~^,¸þvÖ~Ào•Ö,{AÉ¤Û”Iß™÷¥º×þ!EMÞÂÃ<ê({í"Í°ÅÝ'™dñ–öJZI„÷ýN{WÛR×ÀÃtÊ9òl"m¨JßÂtÁÒr:ØŸpEÎ¼ÇôÖhE—g\"Ù-Má$VÐ0Ê‹™pÏ–2Y
-]fj$ùô^âUq}Í[
-‘Þ-¥nN´ã5ƒçS¡ý¶¦¹×šËÐê<Ç2µM‹’ª“t<[ÙO ­¾UÙóÛ À^Í3ªÓü›.¯{l‹éyK~¬Oö$»tª´ËÙ‘RD#™ú©šK%ÐÈkbñ…{vÁ9qÏòÌ`‹	¼+H¹6²L8Å¥r4¶[ä$R÷âÈV"®á€÷ °—JÛˆÞ½^YZf¯¬E³OÓœÜÂ1’æ:[¢X†æ–çEŸ”5llsàû°ò‰­¨ãø^ëË;E'ËÖhÛ~Ô#iUðØ<éÉ-ÓÊW§Ø_*žTÁî#ºwáuní{ÛžØô¾‡Ö­ÂûÛ‚2í-@Ãv€A{§XkxµŠ-(vNÓ¶í…Z‚
-p¾V¸ÆËý0Ñök,õÝü=DzXÎw¹ÇA;EKÌÔNé"ÓtÐ(@£/±Ä2—>
-Ûw2´>Ø²Ü'ÓèIVEòèƒ±À³m•ä]Uæ­ƒkQ'NAFýŒl±®B3íÛcRYà&î™[-pÈJ?AÆñS«XeX¯ìÛ>Úîo#ˆÝ­RÛ¶º­¸ RÄ¢G{ýc<'QRÇ^,M¬¥özXeÄ>÷~+ÖÐA=Í'd (uÚÉ·Å¿TÞÉë«ÔOª„…´îÑ¶öO¤il7®œïkRX:ÑmÐ†ûvk^c¢‹ì„+[,ö|Ä>iR#xä•4ê&³¸Ê¨âh‹ò	@‘6¼'‡±S±>e7Àƒ,Ö,£¯œÛ›¥Nk›&©}ýv‰ú´'™‘ÏaàÅ›Ìuš¬Ql[ý m}Yžé;ÒN	R2·&Zë”ÓX=hÙHÆ:ÉYDf}¿‰åa-|dÓjb%X8Yï€ÛµTg¼\†â1IS©5o»l§CN¨X
-pçÌcÏ&ª#è¼Æ„JûÁIi-´û·Æó\àH¿í{.“L“‚hÚƒ¬l3ö&ù\+À½JôÁ;ÍØkÓhl{O²¶L>×è¼
-†ÈöF‘äŸŽå*kÞÈ,ÛM./í;<©N¥ŠÝ6•öõZ·=4’µ±Å¾­ŸTïÆ§e‘¬OóÌ8C I` ´ÿö,½]*õIOmŸ§‘õ¦§*'M•¤ÐøÔ(“ uém’,`IiéÕv¯báídWäU€f“ÔZìû“ÖÏ	!*ïÑ4"r^kj|£ {³s™ÛVx.1¨óê
-~ÐàêÚÑÎùPHùå‰÷R úœty—n)`xþÛƒœäõ9r¯tjM4óß"/O¨¯TŸpÊrÎ½sùŒ×î7©{–óñƒ¼å¶L• ›/‘ýW62Û¾wô¤×zÀ7œž¤cäEº ±5W]Z«™=jAÝ2½æ‡!áŸ¤cä'éÖÔâÈ	.§Ÿ”“K¥Ò}VÎ;]§H ?énõÇiáÏúáN÷¾îviíyÞ[ÇU";TB:ÉÉIÀL$k@œ|ês-}$Ç/$‚ÊZdd%Í‘Ë!’~w’¸Öw…j%›õ½ÖÛ¥ÙeÉ‘4‚¥ìñÙùâ;}uë¸”½Á¢"©`]Œ¨ÿeæ=Ñ
-
-ý¾Ú bð%ØÀ)ÍG}Õ®9Ó>š3ýš3í£9Ó¯9Ó?š3ýš3ý£9Ó¯±Ñ?š3ýš3ý£9Ó¯9Ó¿Ö{ì÷æL¿æLÿhÎ<i—kÎôkÎôkÎôkÎôkÎt7gº›3ÝÍ™îæL¿æL¿æL¿æL¿æLws¦_sæ³¾ZÒ<Ê=wy©p#à³Ñ^¦‹(èt‚¼K·
-åüÅòv?ŒÞ;m#o¼Ó`$Z_8ŸÏO¸±ßÝÎç^>Í{NÁ{äŸ—*òÖÇ/{f#od˜uäæ$&ŸÏO¸±t¶óù„—OóžSò2çAÞÈf—'gÿÀ“³;OÎþ‘'gwžœýOÎ~yrö<9ûåÉÙ?ðäì—'gÿÈ“VÄþmi­{íÅïðVª24 3f\q–jé§  µ÷A"ÅÿI:¦Â}%ÐÕ¸TÆÇ©F ÏœþSnàñá=¢ìîk)h
-y¹‹U.½&9-³íë÷Çž¤¤¾mÍC%»{»^ÜÈOÒú}Òš†µ„ŠþÛoÒlš»fŒ|šn÷œŸ¤óeüŒÛNõÉ(ñ%z\£û'éîQù“t<Ãü<åïŸ¤ºgêÛt²‡)@øùz,;¦¬ýû;²W_©>á”½\ð!¯;Ý»}&\6€ð‘ mËËXy+cÅm¹‘ty›®\å,•³^­R?h•|õAý¨ª³ùäl>ÙY—òG#«\£¸ü|ë›ËªûmÙü3§OÑýý;W¸úÂ'L}ÇoD¥-…Ï%*É™òõß’â¹M”KFÛ4xÑ„÷÷ïûübØoÏÑ‘stˆg>ÙgúèC¿¬íYÎ˜
-ê'Ëj/Þ²ÂùF6ï§%îÉ´îI×“¾Uk®/^ßŠ~éj®µ7²Ûrs½‘·íîUÇXE³ÅïÓºKØ¦Î„4ÝâëDŸÚå ½´û›¹¨7¢ÒÜ|2úÐ¬Ó|9Dd`‰wA£žÅxì3"Oõ-œ_Ü @ß5Õ.xBS4o<1m…gÞ÷÷™ë8ûÉ÷É2c4Rléºå(û±ñN…–õb{½M¼¯ˆøSY·‡}¿ár—£ãI›êlÅ™?ký=r÷œ_ãj°[‘•wLâ‡ŠsbÑ$ˆ¿ÏÖ	¼UEY[À{1"ÂgµmâƒžmM›ÄßXæuÔ¸í1N¼ aßˆ6räït¾Õ8­Ýß§¥dö>AöZ³òÄÒÞË0ž€ÂµAB*×gîTÜx›š!
-÷¾m42‹øÔkm-[w{ô/CJhÖ›”#Ÿº~|5×WÎOðSAÖé£û–ñ»ñŒ;È>AJ‡Ü©ÚHÕœIìQ¿‘0åln#û”p¢gÜBdÕ$Î^TÎ4n†ù^Ç‡¾S;¹®ïÕÒ»´GbÕ|·ÚÌwU%m8škN»)âÅ>É£Ö‹}ÖÇx¹ä4˜mý´®Y»&u©Ï3ÊùLó	¢R-“ÀýèÖÔï×hy/5Ô9#¿¢&ˆ’ahÇ·ŒúŠ·’’*žíF%]Ò·üßâcLßàéÀ~}³™oð5,Áv&„ý”œ¶d„}/ñ!ì/@>D¼îz„°—ÞêDn\'
-!}×šRÉ-C©¶×qTf¹[†´9Ø‚æ<»ñœ”~1HN*ö]=e&ù-ˆÿ¶ádÙ&íV¦ïù´Õ}¯Ô¸¥¥-Ûyä”õù^ErK]e	ª—¡ß7¢e3’²ì7ŒÄí?Ì#1‘Ë9øÍ+´ ™õ]…È­ÝƒHï„¼¸Î÷ïÇŒ~•Ç‰AÄê C<8©ÉÓÔíQš[XßðÒ©úÚwè»ñbÍx²°Ê»ìFà†Ô°H“=)ã¿5ƒÅ³â §¬FîÚãÌwÜ^¢éS•ælÚ©‚ä¸Û¶Ù>‰Ö#gd<Qp•ƒvu‘=¸®Ó,ü]!y_!°®ƒœ’*yM$O¹·x5PH SBÖhWÐÈàJ
-É´¤ò Rß8ˆøÞ*¤U˜ëkßSÜQâIñB¤FÕ>ˆ¤êiBR¼ )Ãr*=ª¶@¤eUO½ƒ­…ÅHõò-Ò \p‹O¾}>GFö¾Éiì·‘ùIFæ_2Òž¶Ì/%™Ÿ¿ßp¹Ë!ˆìÏÀel™_ÚL¤Ô¾ûKðWr!Éjee‰B­¬[ê86…‰ë¡E®ãI¼ÝYšù]¿7‹„¾e/XA*z*vŒ)÷!X–ZˆÜØÈ¨ÁÈ[oƒY
-VÆ¾oÒúüÞ,’ŽGð®]I¥ð“ú?¶¡¿Ë8Ò1|Çdr?Õ®¿U©ñ;UûŠÉÞã³uJ½¹:%#gN-oDRþæöD=ö=®I‚ƒ.[Ø/IîÎ6	¡ÞÈâ=ð&7!ìeãÎY<Ìƒ ô‘öÔ7¶§Ú·Q:MùÕëÑ)°G~ºKä¨lLôcœf~Áø6ß¡Ë*ß¡ýû˜|û¾öÌÚeýddÔ“†ð«Á±ž³JÕydG‹¤®†c»«TGw”5Ÿå¡2†âžyŒ‹Ä¨Ê“xœ^‘GzÜkÑä±~Á£=m„Æ»^Á°_y- ¤òx?ùÈØ­/‘3¾¹^UûŒÂ…™%²××6BklÅ›"„PÎï B9“_8!T¯‚÷°	!^¥íMßiršÌmJw!‚±ÑûÕ3DÆ4í-úöÿ}l—²KÚoMs}Tf–ÌÿýÎ>
-—x3ZùÒ¤8Ì€$Ì7ñL¸˜ÚH<–àˆý:ééˆõ¾÷KÿÈì³áNÖÒÙâ²¾1BÈÒÜ'­ka„<
-ßD±¡÷PEgâÜP¯¯è•Mœê mNî¦Â‹:`«psƒê+ÆX³›×ÝÖ ”¤+¨º$ôHç÷ à­Þ“8VøÛÒüª¼“´Æa?Ò:áNŒŸÌÑ1–ì^y-R¾À+BâWÖ©ÞS¯xšFóÀ÷†øŽ1(*SbšŽQ Ö9Ûî_ñpÙuÏ.\¡à$ÏºìœkåÉ2o
-Þ­]b­ñö£Úë¤¹OñGÖwpo}¹ãˆžÐ¹‰Ì:zí¹ïØMÏh!ißÂH«uû¾›8kÄµª§sÓdàÓO,Ÿ„1œ*<(v\¼ÙVáOüh[ßUôô1¡lQ"·,Ã.ZzÌlÇÅU}ãŠßrCºÓ:ûçcÌPDð»‘îÜ£ØçðÆJ±ÈÉ…¾ñ…+ÄŸŒð½ÏÚwYäF\ç\$ú ¯sˆ°]$oñó§!Ð*ØJk
-7¢IoÔc¾Cn)Ol1h}nI02`ëË«Žp³’Ú*‰œÖ+Þ©_ýÌVÒÒ„–¶¦Lœ(Š8 ©PË”&wì#·UMÜ6=à-Ù…Ö¸—í—j¹o}7ˆ[cn³Oi pI˜iÆ|ª7„ò©xË±‚»#'übÛp+“j0%"K+¸¿VŒ÷A6s¸¹ë@kq+™öµÀúàB¨¼—€J—'¦lójt·âmeÊ…nwÀÊ@yÐã£0Æ²ª°²už „@ÀôîVrWldIZÌ£QÕ²ÿ±ƒJˆ|@WÄT¢³´g°„¾–ÜBÒÜvª£’¬º;j;h4Ò2ßKƒeµ“PX¯=E,6¡(s`Hk¢Ò#…ðèkKdÄvX&3îÅJ·ë+Þ/ž„àÚ	–J¶¢ÕŠ·W×®Ä¯},$Ri¦´N­¸­½-HiÊ[\”{ËµàJH•oø¢Y]¾ö·¾ù=œŽOÑ"}ç±ÁÓÂŽÊRr¥»Êi!xrDæQˆhVµ&:%z†°ýö rWäžÊþ&½I«$*oÚ¹²dQƒ´"Ý:¦¹Û6`(rÓiíÕ’3H>9!§Ðw>xoz!¢¹-„Ú¢qI>d	a×	ãU¼“Ã4•d‡Q¦ÐtÒ‚û!-ÖcÏ1Âã¡ˆ·6ƒn0q½:F]"Ké‚»Fóboù­1-wu«èVsðÃš883d?„iö´ l„â+*IµÈ9xL$“”"ç]	×
-°‹Ê
-—F")—e~XX†Mu¯3¸f9#+•äéÐ¸?[% ã[°‡u¤µ~J¯Ö&Ë•ý¥{Æ5šnâŠŒ§AÜ½¹KÉ„5»°_v#óº.ö×ˆ1aíßYªc/r;º^ÅÁÞÏûi1(qðÉ8ž}‚ÄÁw–‚½Jd‡N–ûÚwÌ¾Ð»ÌlîwáDä!YÖPŽ™•:É!uÞ{ÇŽ"·Õ@B‘{ƒp¶;?ç$…Å&7ßKa9fGú¡”€Hœˆ2¨u!fK¨ñÂ2EN¼ÏKˆÁùÊÎ_ñ&* r·PöÈ¸#µB½É —XHZÕ	ï©WFøV#>}KËQ¥zšÆ2ÐÎgõâ³ä;.‡ÜëÔÚ²WŒ1¹ô;nD“¢ØñÛ—dÇ¨\êæ“‚H£«`}ïuO„AÖ‘\
-Þ}¯=5±«É˜Kƒ-hã„&ö1°â&ƒ|«%†öí_ž3%±øÿ…#h‘f‡ÒÐÖôã¤Á½GÖ/ñ´bB2Ê½mFÖáË òw–@è4_û¤SÛŽ^ baÂ5êF:Ê>!|#-OÜ „¦h*Mä%±®Œ^	²Ø7Ä>†ØÏéT¸‚‹#ó™¸o‹ìC¾%±eLÖÄÁîCÐdY'°V~ª™V>Að/X¹,‘ö°mÐ4øt ì(™uÁ8Iú)=‹æ×&[q˜÷¿qtãýzFðp­ñrþ)jT…÷®¹<0cñt†ßJ‚0lXÂÉõŽ}ëŽYZðØz1ÕîÈVŒ0Åúu da‚àÉBÅH»”OÇÝ´t>¡ˆg&èñqëí•$$^‡ ¤ësDO¸™ÈÀ·g¡]½'ÔiççÒ å¤ƒ´iHR‰QtòŽZ0ÈVc£dÒøžÞ‰Å4c*­Q#% ¼912w-HÇÝ"»Õ%çÜãþ†Ò•pêD’
-Ød¤ ¼…5¬#ž¯ä]6’Çë –‚Õxø&ö‹	DÓ¶íOÂ+ôä²¥¥]G¼½Žm6ªÑšÓô>3ëœ+±e2¶Ah¡ì±WÉç"6ÁŸY¢ÉÑV{ô6Ü­YÑ2±ö•(õ,ƒNpè¼‘D^}ÛŒrCI5JœxÜ<#Í¬Ò‚Ó|Sd¬ÅF>A±Š½* s­dUVö·ÙgEãÊ,dˆuebœª–JæÙy`-ó„ØêMm‰Ö\«Ðù5YCÃ|Û9—CéqYƒƒœVÒRçØ#`§x^4¢¬Ôõ×–$ž'¬÷èfå1"FXÂžŒœ0êïB$*×šÅØZ9fŽ"-°¾‡ÄÐíès°ÔJŽYº¤€3
-Žç‡K'JžJå,1M0~äï1³'œÐH¤ˆ˜J4-v˜ó”ÈäMÔr	bí 9z}Gñæ€ÈùôÍ¾(I"ÅÀ~€Ô-cà(ZˆD{ ?bø–èZåJB$†PÞI·„¶ðÄäh*ê|„p#Œe„}Gj©²½nÆñ¢ò²‡êT'¦ë°j…Œr´Ëïl©‡¶Éâ{B{‹¸¯s•¨r-'Ôo$W@µÌ!‹\MºjN×§³/IÞñ²A±¦QEö.èó³FZ—ètãƒ,Db.,³µMÈÐàÖù@ÜT¾_‰1óÖ¸/]¬>W]|94•Ž»5Ì±ØÐn¸æ˜Dóh
-g]]¥ò¬kb™X†%l±Tùül84WKgž	Áº!Ö¢Tˆ7D%ûKì´’D‰?ÓõV
-SlPaÐ:¤o@ýÆµoÊ	#;pí[{¨)5°­³ö<0fxÈ‰E £Ž qCì-wg­Îe­®OŠ Öà§pi!ní=ˆŽ>+î?³òMÙ
-r#î$I¸TZYpdœõø:Ò¶ˆC”TTþPëIEž»5[Bå“ºcg(ó wÙ¤¬÷á$åe‹FÉ;Ú<öüÙV‘,zé¶›d‰E´m+95‡‹Ìmµ9HÝÖBXK@kPbNy#ä#Ñ¶}WòPäþ2Zž¨N¼R£¥
-[¦¶mCÔ=m’©Ê¶TTô© >àþŽÔÂM"×Iî‚Y´Û|[Ä¯B¬0òˆÙvŒ¾ÆMÛ_ÅH4à}#­ÓðÕ ðÙ‘1Ö@ôý‘x3îu¬ñ+«,Ú;Žñ,£~Rš&V¶M®¹">¬h¿Äù$Ú3Ø8Ùƒ•ç å‹³’ç2¾ú µ‘ç6ž–¥TÄ+ô
-ô$–h„ö@$ÄBS"­5±­%WI“1Ý(néBfÞëÉ9½sû6ñ7%?iZ	Iú˜ÇýÜ"Vó1ò'˜„Ä‡lUVá°=Èðy!b™êo–Àj.ûŠÞ`©Ì	®ÍÑ® Ñ¦ Œ ®øPŽ•‰&Kt©A‘öa—¿ÏØd?”´ëõƒì}äg¶X4~	„°õ#"–›:X’¨rz,|KÔÐ^IZ*Ò—Ai""Özá>mÊ´Ë–í=¹eJÜÑ‘0¶ÜªãØqÎèü4çýª¯Gy­ âY7,aƒžH^R()ƒ¬&o6LŒu»lµñ…l¥HzV–sˆ%K¢ä¾FÉ”óÇ<y—ÍA¼ºx¿7äVºíÐ9+Ë¶¢÷A’vã´pŽ‰»XjÛ_jòpnÛ—k¤ŒÜ+?È	¹²¤ÍñüÀ‚@ó¬rÿ-ßZÈ.óD	¦¤œ~‚í²’OßhI†ýœ-hS€4¥Êyèä9^²”xºÕ!>£`CÀÑ•do@¬Ml‰å–5«èmäSOZS¦² nCšLÁóÐDÏ+èÝ ËŽ ¼GØ¥Ù~€6Äµ±g4Œ‡»VÐÉþ‚±ÑXÇRˆ¦G»|Ô'®Í¬«:£ ¯c	€]_N»û Ï€u\ÇÖ‚§;k7Ÿ”8ÐÒ»’Ôa`DÐµw*ã…ðÓØZízý¨}rg~ôë­¥þÁ[KõzÙ©ô²Sw¯HÕ^‘ªî½ªúÑ{Uíz«}Íâº-<>¸-ÜÝmáþÑmáán÷n÷ë¶ðøè¶ð¸nnë¶ðøð¶°är··~“är·éP3«ßDï¨„n‘½JÑž50¶ ¥+4FyUÎŽü€`@ß)Ú[ÂeA~šN¢?œtïâ8œt‘oÌŸtñÍÝ÷ÔQêwŽÀ©`µ¢ï×i0ÒC/ƒÞ"ÄTûûu*X3žÌP*œéŒ¼º×¼v AI7òšÛTTÐoåªŸ¤nYÚv[ú~É©ÁÚ½Ó>¯Ó—wûej›ôvL¡¿Jwx½K'Ü0¶<qÃŒ¼æ–q$ìt‡Û»tÌîþ#7ŠÀÈknxçÿ¤ÛÜÞ¦n½0¯N¼zyÃ	_”4‡Ïë4Â¥é¯Á¥­ãmÍï&Ýáõ.pCÉ¸eJÅ²ün=éT‡×»TÂkG5HM×¼
-µ³¤;ÜÞÆ(`n1/ŒnFß¯9Ãçuæ’f•ÞÂˆû‚¼ä„Q~UºÍëm:á†ûq‹Ø‚ò¢Ý+næ¤;ÜÞ¥n87‘ž0òš[§t‡Û»tÂß«#n÷B^rCÛ¿Jw¸½K'ÜÐ¸â–_¿u
-Ü
-q“t‡Û»tÂß^GŠFý¶_hÎmàÈßé·wé„žg·´¿_ÊHáè¤:¼Þ¥c^uyä…‡ ¯¹áÛ¿'Ýæö6pÃØÂÄ-áž9ÚðnxCN¥;ÜÞ¥n5K¯eZñÅ“ì7ZówºÃí]:á†þ„Ä-}?ÈKnè¡ÒnïÒ	7ŒñÜ÷[Šo$¸eúÑ©¯w©„W¨Òk‰dB^òÊ™úVÒnïÒ1·0ƒÈÂ(“
-òšÛÄvÜé6··é„®úÈ-p>üòÊn…Ë$é·wé„z7šµ„¼ä†ó§:¼Þ¥^ø%ðŠ,A~ò/’¼wºÃí]:á–Dƒ‰,Éò’Kr;Ýáö.pÃÈ Äæ!/¹ušk;Ýáö.q[–_Ñ–èÖŸ ¯¹¡6xÒ	·÷é„[ŸÒo´k3òZGÆ]û¤;ÜÞ¥n¸W#7´a
-ò’J9*Ýáö.pCßâ–ö÷ËX‘4GNªÃë]:á…«0òB{A^rÃ•îp{—N¸¡…¹åBc„c¤¼à†§*Ýáö.pQz-µýýš×¤œ%Õáõ.ó¨Å /<ä%7<‰Té6··é„jCÈ"E2ò’[:Õáõ.•ðª™ûŒÞeä%/Z!OºÃí]:á†ñ&ÛhÔBâ7´w¨t‡Û»tÂ-q¬üJ/>
-ò’ú[©t‡Û»tÂÏ(Þ]%n|ö‚í'Ýáö.s#Í¹a»òÊ:G~*Ýæö6pëUúdVF^r#™õ¤;ÜÞ¥nè©ŠÜðn› /¹á‹o*Ýáö.p+YúMRñ«=/¸ÙT‡×»TÂ+qDD´Ñ÷K>ø"íNsø¤ñ3.·âNôßä%§–uªÃé]*æÕÐK yñì!ä%/ž‰;Ýæö6pCËrk´Ãò’z~©t‡Û»tÂ­qÍjà¯—¶o|h§8\ÚOkT¦ôU®ûû%¼•ªRNïÓá}©E•³ôžó	ò2J(M"‹‘Fä´õE*^µ×y¦¼Ö·ð¦„è‰²$bü/¦BíVWéEnï±bºJ+]å›­/Òá+ðP\áºô)äeºB3ªfŠ¤ºNùëeŠ–¨<x
-i:úZ
-ò2zÐÀ#´kÖ)"0#¯Ïohm)“õÜÒy%)óž›s¢nŽc*´OÒ÷Ë4•Z±´ uÃ3rA^¦ë˜
-}!UCÏRA^¥*<ËJb]°4œ™%½Ñs!M¼•˜)éïøý2úüŽF÷ªâÉ± /ÓÑ‰KËƒÏ¤J¥ÓF^¥«¼ÏÑ;Ã˜Ž÷´ÜÞhK¹òwd!UáY”ëË3©÷®`4äÌgR…Z]—éÐß{€s/×"¨	ò*]g">_*™u‘Þœ/åÞi<.US¥Nã¾_¥V5²,C*¸756òÒVY‚:q|d¤Êg´Gè¨ÙÀC!|¶‰ß¿ÁÈG_ÐM±!ëIO_œÿoòÝúpí´-¡þ¹sçïß¡òI®¿}ûû'õ×^ãƒ7¼†{Ãk|ô†×poxÞð×^ã£7¼Æõ†×øà¯q½á5>zÃž+ŽØ;±ÒÁAJxžÓ¤^í´¢C`¹®éŠ=×~ ×…>ûþi:Õ*Ý›“u•®e›ªå7iø4¼ÓÚ©ø¼¼¿^1ÐÌ²kF'æ„¼NEÖ¼Ã®YîZ|½ïŒ$¯–§šûû/•&“õíMŠÃ¥Di>ùn%¾m:Cßé„×»T‡[íÒ†|úÝêûQE'é;p{—êpëYZžO¿[ÏoÇYÍw:áö.Õá6&ó"‹)|¿äÄ¶WN#|^§Ø\z(»¿è¤‡ò®¿ø}§c^oSn)ìþ¢ÓoB^s£ºïtÂí]ªÃ-7é/<ýî¹½ë->Gß©„×»T‡WNtöýf.rŠÎi„Oý€KëÒ[|òÝ[×[†Jñz—êpYz‹O¿ûÈïz‹OÒw:áö.Õá6§ôŸ~òš¤ïtÂí]ªÍmD²R7:ýñµ•BDÑIúNÇÜÞ¦:Ü0n0rãÓïÁo›½âF'é;p{—êp+d[–W3yÍä¨N¸½Ku¸a¤XâF§ß9ø7>Ißé„Û»T‡['oðÍ
-yÍ-éTÂë]šÃïý/:ý|ø/>Ißé„Û»T›Û“=+åô{†×¾MÀNÒw:æö6Õá–*÷šœ~ò’Ÿ¤ïtÂí]ªÃ­ìHh|úMÈkntº·Ó	·w©7”§ˆÛØß/yñ9úN%¼Þ¥:¼z’^ãÓo‰¨òŠÉ;p{—êpCo~âF§Ö“ýû_pã“ôN¸½K%Ü0’÷~3ò’¤ŸtÄí}ªÃí|Èæ,¿æ•m*áõ.Õá…¶Aâ…24#¯¸ñIúI'ÜÞ¥:ÜPSBn$Ë1ò’Is'p{—êpC9¹Ñé7#¯¹%ê[I'ÜÞ¥:ÜF–^c_è0Þ½ÑÉ'é'p{—êp›CúvmF^r£]û¤nïRmn1é7:ýfä%7:I?é˜ÛÛT‡ÞÎÂw"ylG¾¯õŠ[Ò©„×»4‡WiÜk|úÍÈK^d½:é„Û»T‡êfÈN¿yÉNÒO:áö.ÕáÖ;÷Ÿy'÷·Ôt*áõ.Íá5³ô~3ò’¤ŸtÂí]ªÍÖWî58ýæï—¼èý¤b^oS^x	yñ
-™ø†Òsn|’~Ò	·w©·¤Ïè…‘—Üètå¤nïRn%?òù#/¹ÑùÝI'ÜÞ¥:Üº¼þJ«Cê¯u>E—4Â§§ŸsA½^‹åSoF^r¢ô“Nx½Kµ¹ÑíäF²*#/¹‘¬zÒ1··©7<·CntBÀÈKnt²pÒ	·w©·Ì5£4ùM­l
-á’?¨¾·\èœj¿Àñ‚otÂë]ªÃ­5é-8õæïW[>??©„×»T‡¾§€¼xÖd~aá7ž;p{—êp›ÜŠtæß/9Ñé¹¤>óçíWbæÞâ3oF^r‚º“Š9½Msx¥É}ÅçÞŒ¼ä'è'•ðzŸ†ÎÁG)•ûŠÏÊy™Žå’Ò"¥B	¤´øÚúÏëtéMZ×wB^¦£3¾Qf’Ö S>F^¦£sðQëû‰ÏÊy™ŽÎÁá-JE'åøý2MÄ™µïÄ§äŒ¼<G¡sðQkåšñY9#/ÓÑ9ø¨|Ê·ÒÑY9#/ÓñúRñDq$>)Çï—iè|4>½\©èœœ‘—éè|4>-‰ÏÊy•ŽOÂ×á(ë	ÏÊùûe*œeOaã§™Ù^žÃÉµaãç•*ó-Ï7'Îk‘¥sð5(ù,*ñY9#/ÓÑI8ä’…2ñY9#/Óñ.×#µŸ”ã÷«4|
->:û	€pBs¨¿ñXéè|töK€•ˆÖÒþÆ/amrt>:{AÀãrzãAÝI“èèq±DÖ?úK‹57éßC¡ºñ99#¯Òñ9øìM²„:+gäEº¸Ï•ÏÙ£œŒc4‹‘öÉ8Fn\bŒœŒã÷o0ädœ(
-ŸŒSúÂ'ã˜ÿoòÝ Z<i[*¿÷É8~ÿvøEÜ'ã”ƒ«Áó“q‰ÏÑÄ‡YùöÎíÄ“t¡zdé7o<` ´þî=?I—R'ÛãNÇÈÏÒå$^’ŽŸ¦ëd[Réúkë’o…ÇÉé³v¹Ó½oé­BqœTÿ½åo9Øty›.ùrnäm9!BˆmŸÓOÒe²ô«tŒü,áët½¾¾‡¤ÒYCwºðfM~\ïœ>k—;Ýgý·çíA¿ˆÿ®tôÇJ·DÅïôš7lÇø¶HmÞ‰Yô¿%já9åZCP†xà:÷7ÒÄŠqïêÒ¹D
-x¯²æºõz(^~äóéÈ/èD>¡ÆsnäóPˆ¼Âüc—²Õ&%„ËªË±xÕË-ßºÜmI¨[_É©(LSêÆ1wO¹ÛŽÂ{JÞÚÈÏf‰MîA+à—[L4Ãù»žxÛ~m‘ïXŠ} RaL™ømí£âÅ™"F%^9ni¤ç‰ž(K rg!¡ÅTÊ‹¼^28xÓJ'úÈòLùÂê]~	žtÑµ;ÍíAt†ûV—’|Óy`	t&Îß¿áøN†"¢ùÉa#ßR'í ’C]ÚÇá _¿©ð¯\>IkkðÛ·¿ü¶¤‰ÕÄmÕÏÕ6f²¦œÚ„Ê!âN<u‰´G¨ÚFxFS”¬ZK¾¤¦üÍeÝi±&;o®çæÍ¿rÉ$­-»­ç½”:yÜäÜm—YU0Bé™Uò­gUYç%ÝÌª¥•²&%³ª`´}=«Ñ³ªôXª™U|sÝ¬:%?È)¹Ì«Sr™Wºì2¯NÙe^²Ë¬:e—Y¥Ë.sè”}#OÊ~Öàƒœ5XÊ~Ö`)»^…¥ìg–²ëUXJ/«°”ý¬ÂRÎ³
-ä^…e-Ûßj-“ÑrÖ2-z%“ÑrV2-z%“ñrV2/z%“ÑqV²¨•LZxiÜWAz|è¤ÍÓÒ“jqúÖí–Å÷G¸½ô€iíø†µ· ºÅS/,Ùiòúãµ·á×¤ƒÐšÒ†]“ÚðkR›vMjS¯Iò%kóº²Óâª³óæ5ióæ_íšäÊþ³5éôÔFTOÉ(“ž¢1vúIFØé'a§Ÿd|~’ñ¥ûIFÓé§¨~’Ñtä“(ùDÆ×‘Od„i	EÆØ‘PdŒ	EÆØ‘PdŒi	EFÔ‘Pr$7ÆrÁ›æðÒÚ'Aðu°8àyïUQÏ"ƒÒ7èÀ_×TxÛéä°¿‘ÇoÁwfv^lÛ<øû·SŠM±KÉ9Øz¼Ýë…¶^u®®ÎÕÕ¹^u®®ÎÕÕ¹^u®®ÎÅÕ¹\u.®ÎÕÕ¹~Pç2‰6Á»´No_‡9†ÜR@Ë+<g…åáïß ¡
-ª‘äp¾‘Ço‰sPkqqâN°yð÷o§B!¥”\=>ªóÛ¡^ÚÜ¸wyv?ïo
-;¶Ï·ôóA¨—$¹ÂãŒm)…PœRR®ïê¯mRg…`‰×7r[ôX£¾oIH‚%VX£“Ãþæò(K,9´I5òýÛ.Å¡Ø¥äl=>ªs¹ê\\‹«s¹ê\\‹«s¹ê\l×Zmê,ß§Î‡b—ÒÖ¹|0Ÿ…¶í±}™Â­ñÈ•ò´=¶¥Ä‡‚j´sØß2¶B#Sr¨<r…GÝc[J±)v)9[·u®W««suu®W««suu®W««suu®W««suu®_¨s¹ê\\‹«s¹ê\\‹«s¹ê\\‹«s¹ê\\‹«sùBóUçìêœ]óUçìêœ]óUçìêœ]óUçìêœ]óêœ®:'Wçäêœ®:'Wçäêœ®:'Wçäêœ®:'Wçäêœ¾PçxÕ9º:GWçxÕ9º:GWçxÕ9º:GWçxÕ9º:GWçø…:‡«ÎÁÕ9¸:‡«ÎÁÕ9¸:‡«ÎÁÕ9¸:‡«ÎÁÕ9¸:‡_¨ó¼ê<]§«ó¼ê<]§«ó¼ê<]‡«ó¸ê<\§«óüÂØž×ØžnlO7¶ç5¶§ÛÓíyíéÆöpc{\c{¸±=ÝØž_XÃæµ†M·†M·†Ík›n›n›×6Ý6Ü6®5l¸5lº5l~a¯š×^5Ý^5Ý^5¯½jº½jº½j^{Õt{Õp{Õ¸öªáöªéöªOê\®:Wçâê\®:Wçâê\®:Wçâê\®:Wçâê\¾PçzÕ¹º:WWçzÕ¹º:WWçzÕ¹º:WWçzÕ¹º:WWçú…:·«ÎÍÕ¹¹:·«ÎÍÕ¹¹:·«ÎÍÕ¹¹:·«ÎÍÕ¹¹:·ÏëÜ/½ª;½ª;½ª_zUwzUwzU¿ôªîôªîôª~éUÝéUÝéUýzU¿ôªîôªîôª~éUÝéUÝéUýÒ«ºÓ«ºÓ«ú¥Wu§Wu§Wõ/èUýÒ«ºÓ«ºÓ«ú¥Wu§Wu§WõK¯êN¯êN¯ê—^Õ^Õ^Õ¿ WõK¯êN¯êN¯ê—^Õ^Õ^Õ/½ª;½ª;½ª_zUwzUwzUÿ‚^Õ/½ª;½ª;½ª_zUwzUwzU¿ôªîôªîôª~éUÝéUÝéUýzU¿ôªîôªîôª~éUÝéUÝéUýÒ«ºÓ«ºÓ«ú¥Wu§Wu§Wõ/èUýÒ«ºÓ«ºÓ«ú¥Wu§Wu§WõK¯êN¯êN¯ê—^Õ^Õ^ÕÃ/Ôy^už®ÎÓÕy^už®ÎÓÕy^už®ÎÃÕy\u®ÎÓÕy~alÏklO7¶§ÛóÛÓíéÆö¼Æötc{¸±=®±=ÜØžnlÏ/¬aóZÃ¦[Ã¦[Ãæµ†M·†M·†Ík›nn×6Ü6Ý6¿°WÍk¯šn¯šn¯š×^5Ý^5Ý^5¯½jº½j¸½j\{Õp{Õt{Õ'u¾ôªîôªîôª~éUÝéUÝéUýÒ«ºÓ«ºÓ«ú¥Wu§Wu§Wõ/èUýÒ«ºÓ«ºÓ«ú¥Wu§Wu§WõK¯êN¯êN¯ê—^Õ^Õ^Õ¿ WõK¯êN¯êN¯ê—^Õ^Õ^Õ/½ª;½ª;½ª_zUwzUwzUÿ‚^µuírÙŠ³g3(—Í 8›Aq6ƒrÙŠ³dg3È—Í ;›Aq6ƒò…:çP+{Òmdâ«Í-¦¢J_ª¾ò+Õe§Ýß˜ûoÁ·¹wú4éÎˆäÏßª¶›b—s°5øD9^
-1ÒˆøLˆ¤p¼*D–PÆ«B};iD|"vÅJ#Ç«b—¢Xiää`ëñQãUçèê]ãUçèê]ãUçèê\ÃUçàê]?ñžI×LNn&'7“Ó5““›ÉÉÍätÍääfrr39]39¹™œÜLN_˜ÉB®:Wçàê®:Wçàê®:[gñ™Ç«BJq(v)m?ñª¸<ÃºóëÎ3¬_žaÝy†uçÖ/Ï°î<Ãºóë—gXwžaÝy†õ/x†õË3¬;Ï°î<ÃúåÖgXwžaýòëÎ3¬;Ï°~y†uçÖgXÿ‚gXïì]”wB%îìŸ”¹Fƒ=˜ò®ó`§CA5’Î·Ôù TbÉ!q„GÚu–RÅ)%åàêñ¶Îãªópu®Îóªótuž®Îóªótuž®Îóªópu®Îãu–ö)W?×ÏÅõs¹ú¹¸~.®ŸËÕÏÅõsvýœ¯~Î®Ÿ‹ëçò…~.W?×ÏÅõs¹ú¹¸~.®ŸËÕÏÅõsvýœ¯~Î®Ÿ‹ëçò…~®W?W×ÏÕõs½ú¹º~®®ŸëÕÏÕõsqý\®~.®Ÿ«ëçú…~®W?W×ÏÕõs½ú¹º~®®ŸëÕÏÕõsqý\®~.®Ÿ«ëç¯¬Ûíêçæú¹¹~nW?7×ÏÍõs»ú¹¹~®®ŸëÕÏÕõssýÜ¾ÐÏíêçæú¹¹~nW?7×ÏÍõs»ú¹¹~®®ŸëÕÏÕõssýÜ¾ÐÏýêçîú¹»~îW?w×ÏÝõs¿ú¹»~n®ŸÛÕÏÍõswýÜ¿ÐÏýêçîú¹»~îW?w×ÏÝõs¿ú¹»~n®ŸÛÕÏÍõswýüIƒ×1b­ùÁYóÃeÍÎšœ5?\Öü`uÉí—¼Ž!¥8VÇðõø¨Îåªsqu.®Îåªsqu.®Îåªsq'Ù`äë#»:WçOöç¸o0ìŒðùƒH}b«¹ðXóErÜ4r%‡ó½­ùa[ü¾‰Á¶ú}cŸ`ì›|‚±KÉ'¶Õ9Š%L!hÍ:ÜÀÖuJC–°SZþUtDJ{¾ÙJ¥´cíôì\;ÿ –°Í_(Nù(Wƒìøå²ãgÇ/ÎŽ_.;~qvüâìøå²ãgÇÏÎŽŸ/;~vvüâìøŸŒêr­^Å­^Å­^åZ½Š[½Š[½Êµz·z·z•kõ*nõ*nõ*Ÿ¯^âW¤î‘5k-Ï¤}K¬ykx7)
-#uªoçµo5k-Ø<Š÷:ÖZàëñQãUçèê]ãUçèê]ãUçèê\ÃUçàê]?±x^;óp;óp;ó¸væávæávæqíÌÃíÌÃíÌãÚ™‡Û™‡Û™ÇvæqíÌÃíÌÃíÌãÚ™‡Û™‡Û™Çµ3·3·3kgngng_Ù™/Ëvw–íî,Ûý²lwgÙîÎ²Ý/Ëvw–íî,Ûý²lwgÙîÎ²ÝÓ/ÔyŸQ)„wW}FuJ#;³>£ÚuÙiý•Bxg¶gT;ÿ}Fµùo
-{FåkðÞ¾Ë»ø8öÝ°u–å€!{Dü:»Ë‡‚Ö&Éá|ï]j#¼Çˆf"{è.Ç¾+ÚØww)Ù¾këñQûîáƒP/mnØ‡»4ÜÃ»´ü«èH”ö|K„ú§l-Šúo¿ÿµ{8o-Š(Nù(Wƒ|–ƒßŸöJëî¿Žëþëp÷_‡»ÿ:®û¯ÃÝîþë¸î¿wÿu¸û¯£}]Qkµ»ÿ:Üý×qÝîþëp÷_Çuÿu¸û¯ÃÝ×ý×áî¿wÿu|åþkò…ðyšµìèzÛB°c!XßÆB ¾¥ÎÙZv¬ÿŸ~çDÎZT)ùDîsÁ¦ûÿAè¾p|CÇ+Üwø¥Ä‡BÖ&Êá|Ëþ]g¾¿[oèïvÝwøwË3Å®#çàêñ‰:…¬î²ºSÈzBVw
-YÝ)d½N!«;…¬î²^§ÕBVw
-Y¿p
-Y¯SÈêN!«;…¬×)du§ÕBÖë²ºSÈêN!ëu
-YÝ)du§õzE¼t©èt©èt©xéRÑéRÑéRñÒ¥¢Ó¥¢Ó¥â¥KE§KE§KÅ_¨s¼ê]£«s¼ê]£«s¼ê]ƒ«s¸ê\£«óó±}Å5üYq+µÙFý6DN}à«_ï‹¾1bAE‚ B†‚çx~×ßÃoýúÿ ®-°
-endstream
-endobj
-28 0 obj
-<</Next 10 0 R/Title(D1)/Dest[57 0 R/FitR 645 616 629 579]/Prev 14 0 R/Parent 100 0 R>>
-endobj
-29 0 obj
-<</Producer(cpdf non-commercial use only. To buy: http://coherentpdf.com/)/CreationDate(D:20230214210143)/Creator(PCBNEW)/Title(multiples_layout_back.pdf)>>
-endobj
-30 0 obj
-<</Subtype/Link/Type/Annot/Rect[607.642 518.889 622.43 540.078]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = C5', cReturn: null }, { cName: 'Value = 100nF', cReturn: null }, { cName: 'SKU = A-553', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = AO_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-31 0 obj
-<</Subtype/Link/Type/Annot/Rect[643.898 277.456 674.495 286.085]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = GRAF3', cReturn: null }, { cName: 'Value = CC0 logo', cReturn: null }, { cName: 'Config = DNF', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Graphic', cReturn: null }, { cName: 'Footprint = AO_tht:CC0_logo', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-32 0 obj
-<</Subtype/Link/Type/Annot/Rect[663.98 233.405 722.799 284.769]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J5', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-33 0 obj
-<</Next 91 0 R/Title(U2)/Dest[57 0 R/FitR 653 573 593 543]/Prev 43 0 R/Parent 100 0 R>>
-endobj
-34 0 obj
-<</Next 64 0 R/Title(J10)/Dest[57 0 R/FitR 652 284 594 233]/Prev 15 0 R/Parent 100 0 R>>
-endobj
-35 0 obj
-<</Next 6 0 R/Title(R10)/Dest[57 0 R/FitR 610 615 593 580]/Prev 71 0 R/Parent 100 0 R>>
-endobj
-36 0 obj
-<</Next 13 0 R/Title(GRAF2)/Dest[57 0 R/FitR 681 456 635 411]/Prev 108 0 R/Parent 100 0 R>>
-endobj
-37 0 obj
-<</Subtype/Link/Type/Annot/Rect[690.279 580.436 703.396 615.331]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R5', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-38 0 obj
-<</Count -1/First 100 0 R/Dest[57 0 R/Fit]/Title(Page 1)/Last 100 0 R/Parent 12 0 R>>
-endobj
-39 0 obj
-<</Next 83 0 R/Title(C3)/Dest[57 0 R/FitR 709 540 695 518]/Prev 59 0 R/Parent 100 0 R>>
-endobj
-40 0 obj
-<</Subtype/Link/Type/Annot/Rect[592.335 580.436 609.314 615.331]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R10', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-41 0 obj
-<</Next 120 0 R/Title(J6)/Dest[57 0 R/FitR 723 213 664 162]/Prev 42 0 R/Parent 100 0 R>>
-endobj
-42 0 obj
-<</Next 41 0 R/Title(J5)/Dest[57 0 R/FitR 723 284 664 233]/Prev 81 0 R/Parent 100 0 R>>
-endobj
-43 0 obj
-<</Next 33 0 R/Title(U1)/Dest[57 0 R/FitR 725 573 665 543]/Prev 84 0 R/Parent 100 0 R>>
-endobj
-44 0 obj
-<</Next 18 0 R/Title(C6)/Dest[57 0 R/FitR 618 597 605 576]/Prev 87 0 R/Parent 100 0 R>>
-endobj
-45 0 obj
-<</Next 46 0 R/Title(R3)/Dest[57 0 R/FitR 725 540 712 501]/Prev 63 0 R/Parent 100 0 R>>
-endobj
-46 0 obj
-<</Next 111 0 R/Title(R4)/Dest[57 0 R/FitR 721 619 708 580]/Prev 45 0 R/Parent 100 0 R>>
-endobj
-47 0 obj
-<</Subtype/Link/Type/Annot/Rect[678.735 501.236 695.714 536.131]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R1', cReturn: null }, { cName: 'Value = 1M', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-48 0 obj
-<</Subtype/Link/Type/Annot/Rect[618.279 580.436 631.396 615.331]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R9', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-49 0 obj
-<</Next 60 0 R/Title(GRAF3)/Dest[57 0 R/FitR 675 286 644 277]/Prev 13 0 R/Parent 100 0 R>>
-endobj
-50 0 obj
-<</Next 87 0 R/Title(C5)/Dest[57 0 R/FitR 623 540 608 518]/Prev 125 0 R/Parent 100 0 R>>
-endobj
-51 0 obj
-<</Next 95 0 R/Title(R5)/Dest[57 0 R/FitR 704 615 691 580]/Prev 111 0 R/Parent 100 0 R>>
-endobj
-52 0 obj
-<</Subtype/Link/Type/Annot/Rect[707.535 580.436 720.524 619.93]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R4', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-53 0 obj
-<</Next 106 0 R/Title(TP2)/Dest[57 0 R/FitR 650 652 633 638]/Prev 23 0 R/Parent 100 0 R>>
-endobj
-54 0 obj
-<</Subtype/Link/Type/Annot/Rect[694.042 518.889 708.83 540.078]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = C3', cReturn: null }, { cName: 'Value = 100nF', cReturn: null }, { cName: 'SKU = A-553', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = AO_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-55 0 obj
-<</BaseFont/Helvetica/Type/Font/Subtype/Type1/Encoding/WinAnsiEncoding>>
-endobj
-56 0 obj
-<</Subtype/Link/Type/Annot/Rect[614.094 638.709 629.42 652.245]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = TP3', cReturn: null }, { cName: 'Value = GND', cReturn: null }, { cName: 'Config = DNF', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = test point', cReturn: null }, { cName: 'ki_keywords = test point tp', cReturn: null }, { cName: 'Footprint = AO_tht:TestPoint_THTPad_D1.5mm_Drill0.7mm', cReturn: null }, { cName: 'Description = THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm', cReturn: null }, { cName: 'Keywords = test point THT pad', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-57 0 obj
-<</Type/Page/Parent 22 0 R/Resources<</ProcSet[/PDF/Text/ImageC/ImageB]/Font 1 0 R>>/MediaBox[0 0 1224 792]/Rotate 0/Annots 65 0 R/Contents[27 0 R]>>
-endobj
-58 0 obj
-<</Next 101 0 R/Title(R9)/Dest[57 0 R/FitR 632 615 619 580]/Prev 88 0 R/Parent 100 0 R>>
-endobj
-59 0 obj
-<</Next 39 0 R/Title(C3)/Dest[57 0 R/FitR 709 540 695 518]/Prev 97 0 R/Parent 100 0 R>>
-endobj
-60 0 obj
-<</Next 80 0 R/Title(GRAF3)/Dest[57 0 R/FitR 675 286 644 277]/Prev 49 0 R/Parent 100 0 R>>
-endobj
-61 0 obj
-<</Subtype/Link/Type/Annot/Rect[663.98 446.003 722.799 497.367]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J2', cReturn: null }, { cName: 'Value = AudioJack2_SwitchT', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-62 0 obj
-<</Next 3 0 R/Title(J8)/Dest[57 0 R/FitR 652 426 594 375]/Prev 70 0 R/Parent 100 0 R>>
-endobj
-63 0 obj
-<</Next 45 0 R/Title(R3)/Dest[57 0 R/FitR 725 540 712 501]/Prev 68 0 R/Parent 100 0 R>>
-endobj
-64 0 obj
-<</Next 67 0 R/Title(J11)/Dest[57 0 R/FitR 652 213 594 162]/Prev 34 0 R/Parent 100 0 R>>
-endobj
-65 0 obj
-[99 0 R 74 0 R 32 0 R 56 0 R 21 0 R 96 0 R 79 0 R 85 0 R 20 0 R 90 0 R 124 0 R 119 0 R 112 0 R 61 0 R 48 0 R 31 0 R 118 0 R 103 0 R 25 0 R 82 0 R 30 0 R 52 0 R 107 0 R 37 0 R 2 0 R 92 0 R 86 0 R 47 0 R 98 0 R 40 0 R 5 0 R 54 0 R 11 0 R 73 0 R 94 0 R 77 0 R 8 0 R]
-endobj
-66 0 obj
-<</Type/Catalog/Pages 22 0 R/Version/1.5/PageMode/UseOutlines/Outlines 12 0 R/PageLayout/SinglePage>>
-endobj
-67 0 obj
-<</Next 105 0 R/Title(J11)/Dest[57 0 R/FitR 652 213 594 162]/Prev 64 0 R/Parent 100 0 R>>
-endobj
-68 0 obj
-<</Next 63 0 R/Title(R2)/Dest[57 0 R/FitR 682 536 669 501]/Prev 117 0 R/Parent 100 0 R>>
-endobj
-69 0 obj
-<</Next 88 0 R/Title(R8)/Dest[57 0 R/FitR 653 536 640 501]/Prev 126 0 R/Parent 100 0 R>>
-endobj
-70 0 obj
-<</Next 62 0 R/Title(J7)/Dest[57 0 R/FitR 652 497 594 446]/Prev 104 0 R/Parent 100 0 R>>
-endobj
-71 0 obj
-<</Next 35 0 R/Title(R1)/Dest[57 0 R/FitR 696 536 679 501]/Prev 121 0 R/Parent 100 0 R>>
-endobj
-72 0 obj
-<</Next 15 0 R/Title(J1)/Dest[57 0 R/FitR 677 651 641 574]/Prev 80 0 R/Parent 100 0 R>>
-endobj
-73 0 obj
-<</Subtype/Link/Type/Annot/Rect[596.679 501.236 609.796 536.131]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R7', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-74 0 obj
-<</Subtype/Link/Type/Annot/Rect[593.114 446.003 651.933 497.367]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J7', cReturn: null }, { cName: 'Value = AudioJack2_SwitchT', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\), Switched T Pole \(Normalling\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono headphones phone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-75 0 obj
-<</BaseFont/Helvetica-Oblique/Type/Font/Subtype/Type1/Encoding/WinAnsiEncoding>>
-endobj
-76 0 obj
-<</Next 84 0 R/Title(TP3)/Dest[57 0 R/FitR 630 652 615 638]/Prev 113 0 R/Parent 100 0 R>>
-endobj
-77 0 obj
-<</Subtype/Link/Type/Annot/Rect[672.3 579.586 689.152 616.181]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = D2', cReturn: null }, { cName: 'Value = 1N5817', cReturn: null }, { cName: 'SKU = A-159', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Schottky diode', cReturn: null }, { cName: 'ki_keywords = diode Schottky', cReturn: null }, { cName: 'Footprint = AO_tht:D_DO-41_SOD81_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20\(Plastic\).pdf', cReturn: 'http://www.diodes.com/_files/packages/DO-41%20\(Plastic\).pdf' }, { cName: 'Keywords = Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-78 0 obj
-<</Next 9 0 R/Title(J3)/Dest[57 0 R/FitR 723 426 664 375]/Prev 93 0 R/Parent 100 0 R>>
-endobj
-79 0 obj
-<</Subtype/Link/Type/Annot/Rect[593.114 304.271 651.933 355.635]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J9', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-80 0 obj
-<</Next 72 0 R/Title(J1)/Dest[57 0 R/FitR 677 651 641 574]/Prev 60 0 R/Parent 100 0 R>>
-endobj
-81 0 obj
-<</Next 42 0 R/Title(J5)/Dest[57 0 R/FitR 723 284 664 233]/Prev 122 0 R/Parent 100 0 R>>
-endobj
-82 0 obj
-<</Subtype/Link/Type/Annot/Rect[664.802 543.019 724.755 573.491]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = U1', cReturn: null }, { cName: 'Value = TL074', cReturn: null }, { cName: 'SKU = A-1138', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Quad operational amplifier, DIP-14', cReturn: null }, { cName: 'Footprint = AO_tht:DIP-14_W7.62mm_Socket_LongPads', cReturn: null }, { cName: 'Description = 14-lead though-hole mounted DIP package, row spacing 7.62 mm \(300 mils\), Socket, LongPads', cReturn: null }, { cName: 'Keywords = THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-83 0 obj
-<</Next 125 0 R/Title(C4)/Dest[57 0 R/FitR 711 597 698 576]/Prev 39 0 R/Parent 100 0 R>>
-endobj
-84 0 obj
-<</Next 43 0 R/Title(U1)/Dest[57 0 R/FitR 725 573 665 543]/Prev 76 0 R/Parent 100 0 R>>
-endobj
-85 0 obj
-<</Subtype/Link/Type/Annot/Rect[663.98 304.271 722.799 355.635]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J4', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-86 0 obj
-<</Subtype/Link/Type/Annot/Rect[697.642 576.489 710.63 597.678]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = C4', cReturn: null }, { cName: 'Value = 100nF', cReturn: null }, { cName: 'SKU = A-553', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = AO_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-87 0 obj
-<</Next 44 0 R/Title(C5)/Dest[57 0 R/FitR 623 540 608 518]/Prev 50 0 R/Parent 100 0 R>>
-endobj
-88 0 obj
-<</Next 58 0 R/Title(R9)/Dest[57 0 R/FitR 632 615 619 580]/Prev 69 0 R/Parent 100 0 R>>
-endobj
-89 0 obj
-<</Next 97 0 R/Title(C2)/Dest[57 0 R/FitR 704 640 677 616]/Prev 16 0 R/Parent 100 0 R>>
-endobj
-90 0 obj
-<</Subtype/Link/Type/Annot/Rect[593.114 233.405 651.933 284.769]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J10', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-91 0 obj
-<</Prev 33 0 R/Dest[57 0 R/FitR 653 573 593 543]/Title(U2)/Parent 100 0 R>>
-endobj
-92 0 obj
-<</Subtype/Link/Type/Annot/Rect[711.879 501.236 724.869 540.73]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R3', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-93 0 obj
-<</Next 78 0 R/Title(J2)/Dest[57 0 R/FitR 723 497 664 446]/Prev 105 0 R/Parent 100 0 R>>
-endobj
-94 0 obj
-<</Subtype/Link/Type/Annot/Rect[616.493 618.147 640.623 641.323]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = C1', cReturn: null }, { cName: 'Value = 10uF', cReturn: null }, { cName: 'SKU = A-4349', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Polarized capacitor', cReturn: null }, { cName: 'Footprint = AO_tht:CP_Radial_D6.3mm_P2.50mm', cReturn: null }, { cName: 'Description = CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor', cReturn: null }, { cName: 'Keywords = CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-95 0 obj
-<</Next 17 0 R/Title(R5)/Dest[57 0 R/FitR 704 615 691 580]/Prev 51 0 R/Parent 100 0 R>>
-endobj
-96 0 obj
-<</Subtype/Link/Type/Annot/Rect[632.218 638.709 649.906 652.245]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = TP2', cReturn: null }, { cName: 'Value = +12V', cReturn: null }, { cName: 'Config = DNF', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = test point', cReturn: null }, { cName: 'ki_keywords = test point tp', cReturn: null }, { cName: 'Footprint = AO_tht:TestPoint_THTPad_D1.5mm_Drill0.7mm', cReturn: null }, { cName: 'Description = THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm', cReturn: null }, { cName: 'Keywords = test point THT pad', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-97 0 obj
-<</Next 59 0 R/Title(C2)/Dest[57 0 R/FitR 704 640 677 616]/Prev 89 0 R/Parent 100 0 R>>
-endobj
-98 0 obj
-<</Subtype/Link/Type/Annot/Rect[634.93 411.335 680.451 456.862]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = GRAF2', cReturn: null }, { cName: 'Value = AO logo', cReturn: null }, { cName: 'Config = DNF', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Graphic', cReturn: null }, { cName: 'Footprint = AO_tht:analogoutput', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-99 0 obj
-<</Subtype/Link/Type/Annot/Rect[593.114 375.137 651.933 426.501]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J8', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-100 0 obj
-<</Parent 38 0 R/First 114 0 R/Dest[57 0 R/Fit]/Title(Footprints)/Last 91 0 R/Count -74>>
-endobj
-101 0 obj
-<</Next 23 0 R/Title(TP1)/Dest[57 0 R/FitR 611 652 593 638]/Prev 58 0 R/Parent 100 0 R>>
-endobj
-102 0 obj
-<</Next 123 0 R/Title(R6)/Dest[57 0 R/FitR 639 536 622 501]/Prev 17 0 R/Parent 100 0 R>>
-endobj
-103 0 obj
-<</Subtype/Link/Type/Annot/Rect[668.679 501.236 681.796 536.131]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R2', cReturn: null }, { cName: 'Value = 1k', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-104 0 obj
-<</Next 70 0 R/Title(J7)/Dest[57 0 R/FitR 652 497 594 446]/Prev 120 0 R/Parent 100 0 R>>
-endobj
-105 0 obj
-<</Next 93 0 R/Title(J2)/Dest[57 0 R/FitR 723 497 664 446]/Prev 67 0 R/Parent 100 0 R>>
-endobj
-106 0 obj
-<</Next 113 0 R/Title(TP2)/Dest[57 0 R/FitR 650 652 633 638]/Prev 53 0 R/Parent 100 0 R>>
-endobj
-107 0 obj
-<</Subtype/Link/Type/Annot/Rect[621.135 501.236 638.114 536.131]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = R6', cReturn: null }, { cName: 'Value = 1M', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = Resistor', cReturn: null }, { cName: 'ki_keywords = R res resistor', cReturn: null }, { cName: 'Footprint = AO_tht:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal', cReturn: null }, { cName: 'Description = Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf', cReturn: 'http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf' }, { cName: 'Keywords = Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-108 0 obj
-<</Next 36 0 R/Title(GRAF1)/Dest[57 0 R/FitR 724 680 591 121]/Prev 4 0 R/Parent 100 0 R>>
-endobj
-109 0 obj
-<</Producer(KiCad PDF)/CreationDate(D:20230214210143)/Creator(PCBNEW)/Title(multiples_layout_back.pdf)>>
-endobj
-110 0 obj
-<</Next 4 0 R/Title(D2)/Dest[57 0 R/FitR 690 616 673 579]/Prev 10 0 R/Parent 100 0 R>>
-endobj
-111 0 obj
-<</Next 51 0 R/Title(R4)/Dest[57 0 R/FitR 721 619 708 580]/Prev 46 0 R/Parent 100 0 R>>
-endobj
-112 0 obj
-<</Subtype/Link/Type/Annot/Rect[593.114 162.539 651.933 213.902]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J11', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-113 0 obj
-<</Next 76 0 R/Title(TP3)/Dest[57 0 R/FitR 630 652 615 638]/Prev 106 0 R/Parent 100 0 R>>
-endobj
-114 0 obj
-<</Next 16 0 R/Dest[57 0 R/FitR 641 641 617 618]/Title(C1)/Parent 100 0 R>>
-endobj
-115 0 obj
-<</Next 122 0 R/Title(J4)/Dest[57 0 R/FitR 723 355 664 304]/Prev 9 0 R/Parent 100 0 R>>
-endobj
-116 0 obj
-<</Next 26 0 R/Title(J9)/Dest[57 0 R/FitR 652 355 594 304]/Prev 3 0 R/Parent 100 0 R>>
-endobj
-117 0 obj
-<</Next 68 0 R/Title(R2)/Dest[57 0 R/FitR 682 536 669 501]/Prev 6 0 R/Parent 100 0 R>>
-endobj
-118 0 obj
-<</Subtype/Link/Type/Annot/Rect[604.042 576.489 617.03 597.678]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = C6', cReturn: null }, { cName: 'Value = 100nF', cReturn: null }, { cName: 'SKU = A-553', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Unpolarized capacitor', cReturn: null }, { cName: 'ki_keywords = cap capacitor', cReturn: null }, { cName: 'Footprint = AO_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm', cReturn: null }, { cName: 'Description = C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.0*1.6mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf', cReturn: 'http://www.vishay.com/docs/45233/krseries.pdf' }, { cName: 'Keywords = C Disc series Radial pin pitch 2.50mm  diameter 3.0mm width 1.6mm Capacitor', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-119 0 obj
-<</Subtype/Link/Type/Annot/Rect[592.618 638.709 610.306 652.245]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = TP1', cReturn: null }, { cName: 'Value = -12V', cReturn: null }, { cName: 'Config = DNF', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'ki_description = test point', cReturn: null }, { cName: 'ki_keywords = test point tp', cReturn: null }, { cName: 'Footprint = AO_tht:TestPoint_THTPad_D1.5mm_Drill0.7mm', cReturn: null }, { cName: 'Description = THT pad as test Point, diameter 1.5mm, hole diameter 0.7mm', cReturn: null }, { cName: 'Keywords = test point THT pad', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-120 0 obj
-<</Next 104 0 R/Title(J6)/Dest[57 0 R/FitR 723 213 664 162]/Prev 41 0 R/Parent 100 0 R>>
-endobj
-121 0 obj
-<</Next 71 0 R/Title(R1)/Dest[57 0 R/FitR 696 536 679 501]/Prev 26 0 R/Parent 100 0 R>>
-endobj
-122 0 obj
-<</Next 81 0 R/Title(J4)/Dest[57 0 R/FitR 723 355 664 304]/Prev 115 0 R/Parent 100 0 R>>
-endobj
-123 0 obj
-<</Next 19 0 R/Title(R7)/Dest[57 0 R/FitR 610 536 597 501]/Prev 102 0 R/Parent 100 0 R>>
-endobj
-124 0 obj
-<</Subtype/Link/Type/Annot/Rect[663.98 162.539 722.799 213.902]/Border[16 16 0]/A<</Type/Action/S/JavaScript/JS(var aParams = [ { cName: 'Reference designator = J6', cReturn: null }, { cName: 'Value = AudioJack2', cReturn: null }, { cName: 'SKU = A-1121', cReturn: null }, { cName: 'Sheetfile = multiples.kicad_sch', cReturn: null }, { cName: 'Sheetname = ', cReturn: null }, { cName: 'Vendor = Tayda', cReturn: null }, { cName: 'ki_description = Audio Jack, 2 Poles \(Mono / TS\)', cReturn: null }, { cName: 'ki_keywords = audio jack receptacle mono phone headphone TS connector', cReturn: null }, { cName: 'Footprint = AO_tht:Jack_6.35mm_PJ_629HAN_slots', cReturn: null }, { cName: 'Description = ', cReturn: null }, { cName: 'Keywords = ', cReturn: null }, ]; var cChoice = app.popUpMenuEx.apply\( app, aParams \); if\( cChoice != null && cChoice.substring\( 0, 1 \) == '#' \)    this.pageNum = cChoice.slice\( 1 \); else if\( cChoice != null && cChoice.substring\( 0, 4 \) == 'http' \)    app.launchURL\( cChoice \);)>>>>
-endobj
-125 0 obj
-<</Next 50 0 R/Title(C4)/Dest[57 0 R/FitR 711 597 698 576]/Prev 83 0 R/Parent 100 0 R>>
-endobj
-126 0 obj
-<</Next 69 0 R/Title(R8)/Dest[57 0 R/FitR 653 536 640 501]/Prev 19 0 R/Parent 100 0 R>>
-endobj
-xref
-0 127 
-0000000000 65535 f 
-0000000015 00000 n 
-0000000106 00000 n 
-0000001150 00000 n 
-0000001254 00000 n 
-0000001362 00000 n 
-0000002608 00000 n 
-0000002713 00000 n 
-0000002813 00000 n 
-0000004102 00000 n 
-0000004206 00000 n 
-0000004311 00000 n 
-0000005395 00000 n 
-0000005441 00000 n 
-0000005548 00000 n 
-0000005652 00000 n 
-0000005757 00000 n 
-0000005862 00000 n 
-0000005967 00000 n 
-0000006071 00000 n 
-0000006177 00000 n 
-0000007219 00000 n 
-0000008088 00000 n 
-0000008141 00000 n 
-0000008247 00000 n 
-0000008341 00000 n 
-0000009428 00000 n 
-0000009534 00000 n 
-0000049206 00000 n 
-0000049310 00000 n 
-0000049483 00000 n 
-0000050712 00000 n 
-0000051568 00000 n 
-0000052610 00000 n 
-0000052714 00000 n 
-0000052819 00000 n 
-0000052923 00000 n 
-0000053031 00000 n 
-0000054278 00000 n 
-0000054380 00000 n 
-0000054484 00000 n 
-0000055732 00000 n 
-0000055837 00000 n 
-0000055941 00000 n 
-0000056045 00000 n 
-0000056149 00000 n 
-0000056253 00000 n 
-0000056358 00000 n 
-0000057605 00000 n 
-0000058852 00000 n 
-0000058959 00000 n 
-0000059064 00000 n 
-0000059169 00000 n 
-0000060415 00000 n 
-0000060521 00000 n 
-0000061750 00000 n 
-0000061839 00000 n 
-0000062849 00000 n 
-0000063015 00000 n 
-0000063120 00000 n 
-0000063224 00000 n 
-0000063331 00000 n 
-0000064381 00000 n 
-0000064484 00000 n 
-0000064588 00000 n 
-0000064693 00000 n 
-0000064973 00000 n 
-0000065091 00000 n 
-0000065197 00000 n 
-0000065302 00000 n 
-0000065407 00000 n 
-0000065512 00000 n 
-0000065617 00000 n 
-0000065721 00000 n 
-0000066968 00000 n 
-0000068052 00000 n 
-0000068149 00000 n 
-0000068255 00000 n 
-0000069543 00000 n 
-0000069646 00000 n 
-0000070689 00000 n 
-0000070793 00000 n 
-0000070898 00000 n 
-0000071985 00000 n 
-0000072090 00000 n 
-0000072194 00000 n 
-0000073236 00000 n 
-0000074465 00000 n 
-0000074569 00000 n 
-0000074673 00000 n 
-0000074777 00000 n 
-0000075821 00000 n 
-0000075913 00000 n 
-0000077159 00000 n 
-0000077264 00000 n 
-0000078349 00000 n 
-0000078453 00000 n 
-0000079465 00000 n 
-0000079569 00000 n 
-0000080427 00000 n 
-0000081470 00000 n 
-0000081577 00000 n 
-0000081683 00000 n 
-0000081789 00000 n 
-0000083037 00000 n 
-0000083143 00000 n 
-0000083248 00000 n 
-0000083355 00000 n 
-0000084603 00000 n 
-0000084710 00000 n 
-0000084832 00000 n 
-0000084936 00000 n 
-0000085041 00000 n 
-0000086086 00000 n 
-0000086193 00000 n 
-0000086286 00000 n 
-0000086391 00000 n 
-0000086495 00000 n 
-0000086599 00000 n 
-0000087829 00000 n 
-0000088842 00000 n 
-0000088948 00000 n 
-0000089053 00000 n 
-0000089159 00000 n 
-0000089265 00000 n 
-0000090308 00000 n 
-0000090413 00000 n 
-trailer
-<</Info 29 0 R/Root 66 0 R/Size 127>>
-startxref
-90518
-%%EOF

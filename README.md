@@ -1,7 +1,3 @@
-This is a work in progress; better README to come soon. Meanwhile:
-
-**Untested hardware and software — Do not assume anything works!**
-
 # Multiples
 
 This is a buffered multiple module in Kosmo format. It provides two buffered multiple circuits each with one input and four outputs; the input to the second is normalized to the input of the first, so it can function as a 1-in, 8-out multiple.
@@ -19,19 +15,15 @@ Two things to watch out for:
 
 ## Photos
 
-![]()
-
-![]()
+![front](Images/front.jpg)
 
 ## Documentation
 
-* [Schematic](Docs/multiples.pdf)
-* PCB layout: [front](Docs/multiples_layout_front.pdf), [back](Docs/multiples_layout_back.pdf)
-* [BOM](Docs/multiples_bom.md)
-* [Build notes](Docs/build.md)
-* [How it works](Docs/howitworks.md)
-* [Blog post]()
+* [Schematic](Docs/multiples_schematic.pdf)
+* PCB layout: [front](Docs/2D/multiples/multiples_front.svg), [back](Docs/2D/multiples/multiples_back.svg)
+* [BOM](Docs/BOM/multiples_bom.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2023/03/13/buffered-multiples-again/)
 
 ## GitHub repository
 
-* [https://github.com/holmesrichards/multiples](https://github.com/holmesrichards/multiples)
+* [https://github.com/holmesrichards/mults](https://github.com/holmesrichards/mults)
