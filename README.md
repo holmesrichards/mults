@@ -10,7 +10,7 @@ Two things to watch out for:
 * Use of JFET op amps (TL074) in voltage followers rather than paired inverting stages means there can be phase reversal if the input signal is less than 4 V from the negative rail, giving incorrect outputs. If your inputs might go more negative than -8 V, use a different multiple. There also is no protection against overvoltage outside the ±12 V range, so exercise care not to connect anything that might give such large voltages.
 
 ## Current draw
-?? mA +12 V, ?? mA -12 V
+16 mA +12 V, 16 mA -12 V
 
 
 ## Photos
